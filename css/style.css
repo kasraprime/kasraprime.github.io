@@ -1229,7 +1229,7 @@ form label {
   color: #b3b3b3;
   padding-top: 3em;
   margin-top: 3em;
-  border-top: 1px solid rgb(245, 9, 9);
+  
 }
 @media screen and (max-width: 768px) {
   #kasra-footer .copyright .pull-left,
