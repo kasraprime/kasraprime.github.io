@@ -47,13 +47,13 @@ body {
 }
 
 a {
-  color: #66D37E;
+  color: rgb(7, 94, 225);
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #66D37E;
+  color: rgb(7, 94, 225);
   outline: none;
   text-decoration: none;
 }
@@ -263,7 +263,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 15px;
 }
 .kasra-nav ul li.has-dropdown .dropdown li a:hover {
-  color: #f54c53;
+  color: rgb(7, 94, 225);
 }
 .kasra-nav ul li.has-dropdown .dropdown li.active > a {
   color: #000 !important;
@@ -597,7 +597,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #EB6262;
+  color: rgb(98, 199, 235);
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -1934,7 +1934,7 @@ form label {
   font-size: 20px;
   font-weight: 400;
   margin: 0 0 10px 0;
-  color: #f54c53;
+  color: #09536d;
 }
 .kasra-card-item .kasra-text span {
   color: #b3b3b3;
