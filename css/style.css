@@ -822,7 +822,7 @@ form label {
   color: #fff;
 }
 #kasra-features .feature-center p {
-  color: black;
+  color: rgb(21, 218, 50);
 }
 
 .flex-section {
@@ -1029,7 +1029,7 @@ form label {
 .feature-center h3 {
   font-size: 22px;
   margin-bottom: 20px;
-  color: #073c74fc;
+  color: rgba(6, 109, 116, 0.817);
   position: relative;
 }
 
@@ -1071,7 +1071,7 @@ form label {
   margin-bottom: 10px;
   line-height: 1.5;
   font-weight: 300;
-  color: #000;
+  color: rgba(6, 109, 116, 0.817);
   position: relative;
 }
 @media screen and (max-width: 768px) {
