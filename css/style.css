@@ -47,7 +47,7 @@ body {
 }
 
 a {
-  color: rgb(7, 94, 225);
+  color: rgb(4, 105, 113);
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -263,7 +263,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 15px;
 }
 .kasra-nav ul li.has-dropdown .dropdown li a:hover {
-  color: rgb(7, 94, 225);
+  color: rgb(4, 105, 113);
 }
 .kasra-nav ul li.has-dropdown .dropdown li.active > a {
   color: #000 !important;
@@ -1082,7 +1082,7 @@ form label {
 .kasra-heading p {
   font-size: 20px;
   line-height: 1.5;
-  color: gray;
+  color: black;
 }
 
 #kasra-products {
