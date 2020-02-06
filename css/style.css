@@ -47,13 +47,13 @@ body {
 }
 
 a {
-  color: rgb(4, 105, 113);
+  color: rgb(11, 47, 191);;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: rgb(7, 94, 225);
+  color: rgb(8, 137, 147);
   outline: none;
   text-decoration: none;
 }
@@ -263,7 +263,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 15px;
 }
 .kasra-nav ul li.has-dropdown .dropdown li a:hover {
-  color: rgb(4, 105, 113);
+  color: rgb(8, 137, 147);
 }
 .kasra-nav ul li.has-dropdown .dropdown li.active > a {
   color: #000 !important;
@@ -597,7 +597,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: rgb(98, 199, 235);
+  color: rgb(8, 137, 147);
   padding-left: 10px;
   padding-right: 10px;
 }
