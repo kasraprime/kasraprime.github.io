@@ -1026,10 +1026,13 @@ form label {
 .feature-center p, .feature-center h3 {
   margin-bottom: 30px;
 }
+.feature-center p {
+  color: black;
+}
 .feature-center h3 {
   font-size: 22px;
   margin-bottom: 20px;
-  color: rgba(6, 109, 116, 0.817);
+  color: rgba(6, 77, 82, 0.817);
   position: relative;
 }
 
@@ -1071,7 +1074,7 @@ form label {
   margin-bottom: 10px;
   line-height: 1.5;
   font-weight: 300;
-  color: rgba(6, 109, 116, 0.817);
+  color: rgba(6, 77, 82, 0.817);
   position: relative;
 }
 @media screen and (max-width: 768px) {
