@@ -1173,7 +1173,7 @@ form label {
 }
 #kasra-footer .kasra-footer-links {
   padding: 0;
-  margin: 0 0 20px 0;
+  margin: 0 0 10px 0;
   float: left;
   width: 100%;
 }
@@ -1192,7 +1192,7 @@ form label {
   text-decoration: underline;
 }
 #kasra-footer .kasra-widget {
-  margin-bottom: 10px;
+  margin-bottom: 30px;
 }
 #kasra-footer .kasra-widget h3 {
   color: #fff;
