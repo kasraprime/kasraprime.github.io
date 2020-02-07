@@ -755,7 +755,7 @@ form label {
 #kasra-subscribe,
 #kasra-footer,
 .kasra-section {
-  padding:5em 0;
+  padding:7em 0;
   clear: both;
   position: relative;
 }
@@ -777,7 +777,7 @@ form label {
 #kasra-subscribe.border-bottom,
 #kasra-footer.border-bottom,
 .kasra-section.border-bottom {
-  border-bottom: 2px solid #e6e6e6;
+  border-bottom: 0.5px solid #e6e6e6;
 }
 
 #kasra-features {
