@@ -1,0 +1,10 @@
+- name: Home
+  link: /
+- name: About
+  link: /about.html
+- name: FarsiAbout
+  link: /FarsiAbout.md
+- name: Blog
+  link: /blog.html
+- name: FarsiBlog
+  link: /FarsiBlog.html
