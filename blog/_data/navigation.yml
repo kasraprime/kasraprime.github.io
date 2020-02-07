@@ -1,10 +1,10 @@
 - name: Home
-  link: /index.html
+  link: https://kasraprime.com/blog/index.html
 - name: About
-  link: /about.md
+  link: https://kasraprime.com/blog/about.md
 - name: درباره ی من
-  link: /FarsiAbout.md
+  link: https://kasraprime.com/blog/FarsiAbout.md
 - name: Blog
-  link: /blog.html
+  link: https://kasraprime.com/blog/blog.html 
 - name: بلاگ فارسی
-  link: /FarsiBlog.html
+  link: https://kasraprime.com/blog/FarsiBlog.html
