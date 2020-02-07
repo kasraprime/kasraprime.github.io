@@ -1212,11 +1212,11 @@ form label {
   list-style: none;
 }
 #kasra-footer .kasra-widget .kasra-quick-contact li i {
-  width: 10px;
+  width: 20px;
   float: left;
   font-size: 18px;
   position: relative;
-  margin-top: 4px;
+  margin-top: 2px;
   display: -moz-inline-stack;
   display: inline-block;
   zoom: 1;
