@@ -2,9 +2,9 @@
   link: /index.html
 - name: About
   link: /about.md
-- name: FarsiAbout
+- name: درباره ی من
   link: /FarsiAbout.md
 - name: Blog
   link: /blog.html
-- name: FarsiBlog
+- name: بلاگ فارسی
   link: /FarsiBlog.html
