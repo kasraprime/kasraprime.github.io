@@ -1164,7 +1164,7 @@ form label {
 }
 
 #kasra-footer {
-  padding-top: 2em;
+  padding-top: 1em;
   background: #4d4d4d;
   color: rgba(255, 255, 255, 0.3);
 }
@@ -1173,7 +1173,7 @@ form label {
 }
 #kasra-footer .kasra-footer-links {
   padding: 0;
-  margin: 0 0 1px 0;
+  margin: 0 0 20px 0;
   float: left;
   width: 100%;
 }
