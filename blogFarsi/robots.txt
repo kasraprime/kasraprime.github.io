@@ -1,1 +1,1 @@
-Sitemap: https://kasraprime.com/blog/sitemap.xml
+Sitemap: https://kasraprime.com/blogFarsi/sitemap.xml
