@@ -1,0 +1,13 @@
+# Menu navigation links
+
+#- title: Theme Setup
+#  url: /theme-setup/
+
+#- title: External Link
+#  url: http://mademistakes.com
+
+- title: Homepage
+  url: https://kasraprime.com
+
+- title: بلاگ فارسی
+  url: https://kasraprime.com/blogFarsi/index.html
