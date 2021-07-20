@@ -6,7 +6,7 @@ baseURL = "https://kasraprime.com/blog/"
 DefaultContentLanguage  = "en"
 title = "Blog of Kasra Darvish"
 theme                   = "hugo-future-imperfect-slim"
-publishdir = "../../kasraprime.github.io/blog"
+publishdir = "../blog"
 
 
 paginate                = 5
@@ -74,7 +74,7 @@ disableLanguages        = []
       alt                 = "This is me"
 
   [params.sidebar]
-    about               = "I'm a Ph.D. student interested in AI, ML and intelligence in its abstract form"
+    about               = "I'm a Ph.D. student interested in Artificial Intelligence, Machine Learning and intelligence in its abstract form"
     postAmount          = 5
     categories          = true
     categoriesByCount   = true
@@ -153,7 +153,7 @@ disableLanguages        = []
     LanguageCode        = "fa"
     LanguageName        = "Farsi"
     languagedirection   = "rtl"
-    title               = "Blog of Kasra Darvish"
+    title               = "بلاگ کسری درویش"
     description         = "بلاگی از زبان یک دانشجوی دکترای علاقمند به هوش مصنوعی، یادگیری ماشین، و هوش"
     weight              = 2
 
