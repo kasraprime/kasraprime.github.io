@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>#blog on Blog of Kasra Darvish</title>
-    <link>https://kasraprime.com/tags/#blog/</link>
+    <link>https://kasraprime.com/myblog/tags/#blog/</link>
     <description>Recent content in #blog on Blog of Kasra Darvish</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://kasraprime.com/tags/#blog/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://kasraprime.com/myblog/tags/#blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jekyll Blogging</title>
-      <link>https://kasraprime.com/blog/blogging/</link>
+      <link>https://kasraprime.com/myblog/blog/blogging/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kasraprime.com/blog/blogging/</guid>
+      <guid>https://kasraprime.com/myblog/blog/blogging/</guid>
       <description>Tools Jekyll Edit files in BuildBlog folder. Do the following in terminal
 cd BuildBlog export PATH=$HOME/.gem/ruby/2.6.0/bin:$PATH JEKYLL_ENV=production bundle exec jekyll build Then copy the \_site contents to blog folder in your github repo.
 You should do this every time you add a new post.

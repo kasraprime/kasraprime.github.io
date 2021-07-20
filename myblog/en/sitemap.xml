@@ -2,87 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kasraprime.com/about/</loc>
+    <loc>https://kasraprime.com/myblog/about/</loc>
     <lastmod>2020-02-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://kasraprime.com/fa/about/"
+                href="https://kasraprime.com/myblog/fa/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kasraprime.com/about/"
+                href="https://kasraprime.com/myblog/about/"
                 />
   </url><url>
-    <loc>https://kasraprime.com/tags/apply/</loc>
+    <loc>https://kasraprime.com/myblog/tags/apply/</loc>
     <lastmod>2018-11-21T23:26:55-04:00</lastmod>
   </url><url>
-    <loc>https://kasraprime.com/blog/</loc>
+    <loc>https://kasraprime.com/myblog/blog/</loc>
     <lastmod>2018-11-21T23:26:55-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://kasraprime.com/fa/blog/"
+                href="https://kasraprime.com/myblog/fa/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kasraprime.com/blog/"
+                href="https://kasraprime.com/myblog/blog/"
                 />
   </url><url>
-    <loc>https://kasraprime.com/</loc>
+    <loc>https://kasraprime.com/myblog/</loc>
     <lastmod>2018-11-21T23:26:55-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://kasraprime.com/fa/"
+                href="https://kasraprime.com/myblog/fa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kasraprime.com/"
+                href="https://kasraprime.com/myblog/"
                 />
   </url><url>
-    <loc>https://kasraprime.com/tags/grad-school/</loc>
+    <loc>https://kasraprime.com/myblog/tags/grad-school/</loc>
     <lastmod>2018-11-21T23:26:55-04:00</lastmod>
   </url><url>
-    <loc>https://kasraprime.com/blog/2018-11-21-how-to-apply/</loc>
+    <loc>https://kasraprime.com/myblog/blog/2018-11-21-how-to-apply/</loc>
     <lastmod>2018-11-21T23:26:55-04:00</lastmod>
   </url><url>
-    <loc>https://kasraprime.com/tags/</loc>
+    <loc>https://kasraprime.com/myblog/tags/</loc>
     <lastmod>2018-11-21T23:26:55-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://kasraprime.com/fa/tags/"
+                href="https://kasraprime.com/myblog/fa/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kasraprime.com/tags/"
+                href="https://kasraprime.com/myblog/tags/"
                 />
   </url><url>
-    <loc>https://kasraprime.com/tags/#blog/</loc>
+    <loc>https://kasraprime.com/myblog/tags/#blog/</loc>
   </url><url>
-    <loc>https://kasraprime.com/categories/</loc>
+    <loc>https://kasraprime.com/myblog/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://kasraprime.com/fa/categories/"
+                href="https://kasraprime.com/myblog/fa/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kasraprime.com/categories/"
+                href="https://kasraprime.com/myblog/categories/"
                 />
   </url><url>
-    <loc>https://kasraprime.com/blog/channelb/</loc>
+    <loc>https://kasraprime.com/myblog/blog/channelb/</loc>
   </url><url>
-    <loc>https://kasraprime.com/blog/blogging/</loc>
+    <loc>https://kasraprime.com/myblog/blog/blogging/</loc>
   </url><url>
-    <loc>https://kasraprime.com/tags/ph.d./</loc>
+    <loc>https://kasraprime.com/myblog/tags/ph.d./</loc>
   </url><url>
-    <loc>https://kasraprime.com/blog/podcasts/</loc>
+    <loc>https://kasraprime.com/myblog/blog/podcasts/</loc>
   </url>
 </urlset>

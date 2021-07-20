@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Blog of Kasra Darvish</title>
-    <link>https://kasraprime.com/tags/</link>
+    <link>https://kasraprime.com/myblog/tags/</link>
     <description>Recent content in Tags on Blog of Kasra Darvish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Nov 2018 23:26:55 -0400</lastBuildDate><atom:link href="https://kasraprime.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Nov 2018 23:26:55 -0400</lastBuildDate><atom:link href="https://kasraprime.com/myblog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>apply</title>
-      <link>https://kasraprime.com/tags/apply/</link>
+      <link>https://kasraprime.com/myblog/tags/apply/</link>
       <pubDate>Wed, 21 Nov 2018 23:26:55 -0400</pubDate>
       
-      <guid>https://kasraprime.com/tags/apply/</guid>
+      <guid>https://kasraprime.com/myblog/tags/apply/</guid>
       <description></description>
     </item>
     
     <item>
       <title>grad school</title>
-      <link>https://kasraprime.com/tags/grad-school/</link>
+      <link>https://kasraprime.com/myblog/tags/grad-school/</link>
       <pubDate>Wed, 21 Nov 2018 23:26:55 -0400</pubDate>
       
-      <guid>https://kasraprime.com/tags/grad-school/</guid>
+      <guid>https://kasraprime.com/myblog/tags/grad-school/</guid>
       <description></description>
     </item>
     
     <item>
       <title>#blog</title>
-      <link>https://kasraprime.com/tags/#blog/</link>
+      <link>https://kasraprime.com/myblog/tags/#blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kasraprime.com/tags/#blog/</guid>
+      <guid>https://kasraprime.com/myblog/tags/#blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ph.D.</title>
-      <link>https://kasraprime.com/tags/ph.d./</link>
+      <link>https://kasraprime.com/myblog/tags/ph.d./</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kasraprime.com/tags/ph.d./</guid>
+      <guid>https://kasraprime.com/myblog/tags/ph.d./</guid>
       <description></description>
     </item>
     
