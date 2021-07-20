@@ -2,8 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kasraprime.com/about/</loc>
+    <lastmod>2020-02-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://kasraprime.com/fa/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kasraprime.com/about/"
+                />
+  </url><url>
+    <loc>https://kasraprime.com/tags/apply/</loc>
+    <lastmod>2018-11-21T23:26:55-04:00</lastmod>
+  </url><url>
+    <loc>https://kasraprime.com/blog/</loc>
+    <lastmod>2018-11-21T23:26:55-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://kasraprime.com/fa/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kasraprime.com/blog/"
+                />
+  </url><url>
     <loc>https://kasraprime.com/</loc>
-    <lastmod>2020-09-03T23:26:55-04:00</lastmod>
+    <lastmod>2018-11-21T23:26:55-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
@@ -11,45 +40,18 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://kasraprime.com/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://kasraprime.com/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://kasraprime.com/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://kasraprime.com/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://kasraprime.com/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://kasraprime.com/nl/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://kasraprime.com/"
                 />
   </url><url>
-    <loc>https://kasraprime.com/posts/</loc>
-    <lastmod>2020-09-03T23:26:55-04:00</lastmod>
+    <loc>https://kasraprime.com/tags/grad-school/</loc>
+    <lastmod>2018-11-21T23:26:55-04:00</lastmod>
+  </url><url>
+    <loc>https://kasraprime.com/blog/2018-11-21-how-to-apply/</loc>
+    <lastmod>2018-11-21T23:26:55-04:00</lastmod>
   </url><url>
     <loc>https://kasraprime.com/tags/</loc>
-    <lastmod>2020-09-03T23:26:55-04:00</lastmod>
+    <lastmod>2018-11-21T23:26:55-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
@@ -57,69 +59,9 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://kasraprime.com/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://kasraprime.com/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://kasraprime.com/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://kasraprime.com/zh-cn/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://kasraprime.com/ja/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://kasraprime.com/nl/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://kasraprime.com/tags/"
                 />
-  </url><url>
-    <loc>https://kasraprime.com/tags/%D8%A2%D8%AF%D9%85/</loc>
-    <lastmod>2020-09-03T23:26:55-04:00</lastmod>
-  </url><url>
-    <loc>https://kasraprime.com/posts/2020-09-03-peace/</loc>
-    <lastmod>2020-09-03T23:26:55-04:00</lastmod>
-  </url><url>
-    <loc>https://kasraprime.com/tags/%D8%B5%D9%84%D8%AD/</loc>
-    <lastmod>2020-09-03T23:26:55-04:00</lastmod>
-  </url><url>
-    <loc>https://kasraprime.com/tags/%D9%81%D8%B6%D8%A7%DB%8C%DB%8C/</loc>
-    <lastmod>2020-09-03T23:26:55-04:00</lastmod>
-  </url><url>
-    <loc>https://kasraprime.com/about/</loc>
-    <lastmod>2020-02-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kasraprime.com/tags/apply/</loc>
-    <lastmod>2018-11-21T23:26:55-04:00</lastmod>
-  </url><url>
-    <loc>https://kasraprime.com/tags/grad-school/</loc>
-    <lastmod>2018-11-21T23:26:55-04:00</lastmod>
-  </url><url>
-    <loc>https://kasraprime.com/posts/2018-11-21-how-to-apply/</loc>
-    <lastmod>2018-11-21T23:26:55-04:00</lastmod>
-  </url><url>
-    <loc>https://kasraprime.com/tags/%D8%B4%D8%B9%D8%B1/</loc>
-    <lastmod>2013-11-26T23:26:55-04:00</lastmod>
-  </url><url>
-    <loc>https://kasraprime.com/posts/2013-11-26-poem/</loc>
-    <lastmod>2013-11-26T23:26:55-04:00</lastmod>
   </url><url>
     <loc>https://kasraprime.com/tags/#blog/</loc>
   </url><url>
@@ -131,46 +73,16 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://kasraprime.com/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://kasraprime.com/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://kasraprime.com/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://kasraprime.com/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://kasraprime.com/ja/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://kasraprime.com/nl/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://kasraprime.com/categories/"
                 />
   </url><url>
-    <loc>https://kasraprime.com/posts/channelb/</loc>
+    <loc>https://kasraprime.com/blog/channelb/</loc>
   </url><url>
-    <loc>https://kasraprime.com/posts/blogging/</loc>
+    <loc>https://kasraprime.com/blog/blogging/</loc>
   </url><url>
     <loc>https://kasraprime.com/tags/ph.d./</loc>
   </url><url>
-    <loc>https://kasraprime.com/posts/podcasts/</loc>
+    <loc>https://kasraprime.com/blog/podcasts/</loc>
   </url>
 </urlset>

@@ -1,10 +1,4 @@
 [{
-    "title": "زمینی ها و فضایی ها",
-    "date": "",
-    "description": "",
-    "body": "شایدم ۲۰۰ سال بعد، یکی ‌از دغدغه ها این باشه که چرا بین موجوداتِ “زمینی” و موجوداتِ “فضایی” تفاوت قائل میشیم و چرا باهم در صلح نیستیم. چرا فضایی ها آدم ها رو، و آدم ها فضایی ها رو تحقیر میکنن و اعتماد و احترام وجود نداره. چرا به طور مداوم با هم در تنش هستیم.\n“فعالانِ حقوقِ فضایی ها”، زمینی ها رو سرزنش میکنن و “فعالانِ حقوقِ زمینی ها” فضایی ها رو، و یک “چرخه ی ناتمامِ تَنِش” به وجود میاد که نسل ها طول میکشه تا شکسته بشه.\nولی خب خوبیش اینه که احتمالا دغدغه های امروز ما (مثل برابری حقوق انسان ها از هر جنسیت و ملیت و تفکری) برای نسل های بعد، مسائل حل شده و ساده ای خواهند بود.\nولی آیا روزی میرسه که هیچ مشکلی نباشه!؟\n @pilutalon  پ.ن. رو به جلو، هر چند کُند!\nپ.پ.ن. موجودات باهم برابرند ولی بعضی ها برابرترند :)\nنقاشی از: لاله نوریان\n",
-    "ref": "/posts/2020-09-03-peace/"
-  },{
     "title": "About Kasra Darvish",
     "date": "",
     "description": "",
@@ -15,29 +9,23 @@
     "date": "",
     "description": "How to apply for graduate studies in USA",
     "body": "In this post, I am going to talk about the process of applying for universities in United States of America, but most of the parts are general and applicable to other countries as well. I am assuming that you are an undergrad or Master\u0026rsquo;s student and want to apply for Master\u0026rsquo;s or Ph.D. degree. Before starting to apply for universities, you need to have a reasonable resume, which means you have to learn different skills and have some research experiences in your field of study. Moreover, a good GPA is always important, so if you are a first year student, try to get good grades in your exams. If you don\u0026rsquo;t want to apply, there is no need to have a high GPA, and you can spend your time to learn different things or have fun or whatever you want, but since you are reading this post, you are thinking about applying for grad school, therefore you need your GPA.\nThe first step is improving your English skills (if you are from a country in which English is not the official or academic language). These skills are reading, listening, speaking, and writing. You should also expand your vocabulary and learn the grammar (which is not very difficult). I will discuss more about how to improve your English in another post separately.\nThe second step is taking the English exam (TOEFL, IELTS). If you want, I can write about the differences between the two exam, and which one is better to take for different people. For TOEFL, scores more than 100 are good, and for IELTS scores more than 7 and 7.5 are good. It varies based on your field of study.\nThe third step is taking the GRE exam and you need to improve three skills: Quantitative Reasoning, Verbal Reasoning, and Analytical Writing.\nThe forth step is to start looking for universities and professors, and decide about your research interests. You can use some ranking websites, but use them only for finding universities, not to compare them, since these rankings are not realistic. You can use QS or USNews. Computer Science students can use this perfect website. In each university find a professor whose research interests are the same as yours, and send an email to them. (Read How to send an email to a professor?). The next step is to write your SOP (Statement of Purpose) which is usually 1 page or 2 pages long. SOP is one of the most important parts of your application and you must put a lot of effort to write a good SOP. In SOP you should write about yourself, your passion, why did you study in this major, why you have these research interests, and a most important question, \u0026ldquo;why do you want to attend to grad school as a Master\u0026rsquo;s or Ph.D. student, and why this university\u0026rdquo;. The last step is to decide what universities you want to apply, and start filling out application forms.\nTo sum it up, the documents you need to apply for grad schools in the USA are, transcripts, official TOEFL/IELTS score, official GRE score, resume, SOP, up to 3 recommendation letters. I wish you the best of luck!\nP.S. I wrote this post in English because if you want to apply for a university in the USA, you have to be able to read an article of this length and difficulty easily :)\n",
-    "ref": "/posts/2018-11-21-how-to-apply/"
-  },{
-    "title": "شعر فارسی",
-    "date": "",
-    "description": "",
-    "body": " این یکی از شعرهای مورد علاقه ی من هستش که به عنوان اولین پست بلاگ مینوسمش که بمونه به یادگار\nدر این درگَه که گَه گَه، کَه کُه و کُه کَه شود ناگَه\nبه امروزت مشو غره که از فردا نیی آگَه\n",
-    "ref": "/posts/2013-11-26-poem/"
+    "ref": "/blog/2018-11-21-how-to-apply/"
   },{
     "title": "Channelb",
     "date": "",
     "description": "",
     "body": "Type: #podcast\nScientist and the Sea (Episode 60) status: #DONE The story of Tommy Gregory Thompson a scientist who turns to a thief. He is known for his leading role in the rediscovery of SS Central America on September 11, 1988.\nSilk Road Keywords: Tor Browser, Dark Web, Drugs, Libertarian\nThe story of Ross Ulbrik who created a dark net webiste to sell drugs. He was a proponent of libertarian and freedom and that was why he started this website.\nWhy this podcast  Good Storytelling but long. The same story can be told in half that time. Informative about real life events Good as a hobby and not a source of info since it\u0026rsquo;s not fast enough  Episodes    Name Status Genre Date Rating Duration      channelB #DONE #documentary 2021-04-14 4/5 66              ",
-    "ref": "/posts/channelb/"
+    "ref": "/blog/channelb/"
   },{
     "title": "Jekyll Blogging",
     "date": "",
     "description": "",
     "body": "Tools Jekyll Edit files in BuildBlog folder. Do the following in terminal\ncd BuildBlog export PATH=$HOME/.gem/ruby/2.6.0/bin:$PATH JEKYLL_ENV=production bundle exec jekyll build Then copy the \\_site contents to blog folder in your github repo.\nYou should do this every time you add a new post.\nHugo Create the website (Once) hugo new site blog_name cd blog_name Add a new post hugo new posts/my-first-post.md Publish The Blog hugo server -D # To see it live hugo -D # To build the website Output will be in ./public/ directory by default (-d/\u0026ndash;destination flag to change it, or set publishdir in the config file). Copy the output to github.\nDesign UI/UX Users are more likely to scroll all the way down than to click on the next page button since it requires another loading time and changing the method of using keyboard/mouse. Therefore, it\u0026rsquo;s better to have all of your posts in one page, and load them incrementally.\nFont Use a comic like font such as the font of this blog\n",
-    "ref": "/posts/blogging/"
+    "ref": "/blog/blogging/"
   },{
     "title": "Podcasts List",
     "date": "",
     "description": "",
     "body": "Podcasts    Name Status Genre Author Start Date Rating Episodes      channelB #WIP Story, Fiction Ali Bandari 2021-04-13 5/5     Bplus #WIP Book Summary Ali Bandari  5/5      ",
-    "ref": "/posts/podcasts/"
+    "ref": "/blog/podcasts/"
   }]
