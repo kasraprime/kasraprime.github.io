@@ -29,9 +29,9 @@ Maybe, but none of them describe me completely. I'm defined by the moments that 
 
 I've never liked it when I was reading a blog post and it asked me to subscribe in the middle of the post. However, since I started to write this blog I see that it's hard to continue without any financial supports, but I still want to keep my content freely available because I believe that knowledge is priceless.
 
-That being told you can support and encourage me by buying me a coffee using the button below which I appreciate it in advance!
+That being told you can support and encourage me by buying me a coffee using the yellow button below which I appreciate it in advance!
 
-<a href="https://www.buymeacoffee.com/kasraprime"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=kasraprime&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
+<!-- <a href="https://www.buymeacoffee.com/kasraprime"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=kasraprime&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a> -->
 
 <!-- * We can chat on the following social media.
 
