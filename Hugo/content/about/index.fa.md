@@ -19,7 +19,15 @@ modified: 2020-02-11
 * از طریق شبکه های اجتماعی هم که لینکشون این پایین هست میتونیم با هم در ارتباط باشیم
 
 
-<ul class="socialcount socialcount-small inline-list">
+# حمایت
+
+خیلی بدم میومد هروقت که یک مطلبی رو داشتم میخوندم و وسطش میگفت که باید سابسکرایب کنید تا بتونید ادامه ی مطلب رو بخونید و اون صفحه رو میبستم.
+الان که خودم شروع کردم به نوشتن میبینم که واقعا سخته بدون حمایت مالی ادامه دادن.
+اما همچنان تصمیم دارم که تمام محتوای این بلاگ رو رایگان به اشتراک بذارم چون اعتقاد دارم که نمیشه روی دانش قیمت گذاشت.
+اگر از محتوای این بلاگ استفاده کردید و لذت بردید، خوشحال میشم که بلاگ رو به اشتراک بذارین و از طریق دکمه ی زرد رنگ زیر با واریز مبلغ کمی این وبلاگ رو حمایت کنید.
+
+<a href="https://www.buymeacoffee.com/kasraprime"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=kasraprime&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
+<!-- <ul class="socialcount socialcount-small inline-list">
   <li>
 	  <a href="https://twitter.com/{{ site.owner.twitter }}"><i class="fa fa-fw fa-twitter"></i>توییتر</a>
   </li>
@@ -35,6 +43,6 @@ modified: 2020-02-11
   <li>
 		<a href="https://instagram.com/{{ site.owner.instagram }}"><i class="fa fa-fw fa-instagram"></i>اینستاگرام</a>
   </li>  
-</ul>
+</ul> -->
 
 [^1]:<div markdown="0"><a href="https://kasraprime.com/Resume_Kasra_Darvish.pdf" class="btn btn-success">دانلود رزومه ی من</a></div>
