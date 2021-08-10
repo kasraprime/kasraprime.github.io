@@ -2,47 +2,90 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Blog of Kasra Darvish</title>
-    <link>https://kasraprime.com/posts/</link>
+    <link>https://kasraprime.com/blog/posts/</link>
     <description>Recent content in Posts on Blog of Kasra Darvish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Sep 2020 23:26:55 -0400</lastBuildDate><atom:link href="https://kasraprime.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Aug 2021 00:00:00 -0400</lastBuildDate><atom:link href="https://kasraprime.com/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>زمینی ها و فضایی ها</title>
-      <link>https://kasraprime.com/posts/2020-09-03-peace/</link>
-      <pubDate>Thu, 03 Sep 2020 23:26:55 -0400</pubDate>
+      <title>Note Taking</title>
+      <link>https://kasraprime.com/blog/posts/note-taking/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 -0400</pubDate>
       
-      <guid>https://kasraprime.com/posts/2020-09-03-peace/</guid>
-      <description>شایدم ۲۰۰ سال بعد، یکی ‌از دغدغه ها این باشه که چرا بین موجوداتِ “زمینی” و موجوداتِ “فضایی” تفاوت قائل میشیم و چرا باهم در صلح نیستیم. چرا فضایی ها آدم ها رو، و آدم ها فضایی ها رو تحقیر میکنن و اعتماد و احترام وجود نداره. چرا به طور مداوم با هم در تنش هستیم.
-“فعالانِ حقوقِ فضایی ها”، زمینی ها رو سرزنش میکنن و “فعالانِ حقوقِ زمینی ها” فضایی ها رو، و یک “چرخه ی ناتمامِ تَنِش” به وجود میاد که نسل ها طول میکشه تا شکسته بشه.</description>
+      <guid>https://kasraprime.com/blog/posts/note-taking/</guid>
+      <description>Hey You Perfectionist Don&amp;rsquo;t spend endless hours contemplating the tools. Follow this rule:
+ As long as you have access to your data and they are palin text, you will be fine. The worst is that you can&amp;rsquo;t convert your files easily to another plain text format, but even in that case you can search your files and find the data you are looking for. Don&amp;rsquo;t think about publishing and making it look good, because notes evolve over time and you don&amp;rsquo;t want the pdfs of them you created two years ago.</description>
     </item>
     
     <item>
       <title>How to apply</title>
-      <link>https://kasraprime.com/posts/2018-11-21-how-to-apply/</link>
+      <link>https://kasraprime.com/blog/posts/2018-11-21-how-to-apply/</link>
       <pubDate>Wed, 21 Nov 2018 23:26:55 -0400</pubDate>
       
-      <guid>https://kasraprime.com/posts/2018-11-21-how-to-apply/</guid>
+      <guid>https://kasraprime.com/blog/posts/2018-11-21-how-to-apply/</guid>
       <description>In this post, I am going to talk about the process of applying for universities in United States of America, but most of the parts are general and applicable to other countries as well. I am assuming that you are an undergrad or Master&amp;rsquo;s student and want to apply for Master&amp;rsquo;s or Ph.D. degree. Before starting to apply for universities, you need to have a reasonable resume, which means you have to learn different skills and have some research experiences in your field of study.</description>
     </item>
     
     <item>
-      <title>شعر فارسی</title>
-      <link>https://kasraprime.com/posts/2013-11-26-poem/</link>
-      <pubDate>Tue, 26 Nov 2013 23:26:55 -0400</pubDate>
+      <title></title>
+      <link>https://kasraprime.com/blog/posts/editors-war/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kasraprime.com/posts/2013-11-26-poem/</guid>
-      <description>این یکی از شعرهای مورد علاقه ی من هستش که به عنوان اولین پست بلاگ مینوسمش که بمونه به یادگار
-در این درگَه که گَه گَه، کَه کُه و کُه کَه شود ناگَه
-به امروزت مشو غره که از فردا نیی آگَه</description>
+      <guid>https://kasraprime.com/blog/posts/editors-war/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kasraprime.com/blog/posts/emacs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/posts/emacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kasraprime.com/blog/posts/obsidian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/posts/obsidian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kasraprime.com/blog/posts/second-brain-zettlekasten/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/posts/second-brain-zettlekasten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kasraprime.com/blog/posts/vim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/posts/vim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kasraprime.com/blog/posts/vscode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/posts/vscode/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Channelb</title>
-      <link>https://kasraprime.com/posts/channelb/</link>
+      <link>https://kasraprime.com/blog/posts/channelb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kasraprime.com/posts/channelb/</guid>
+      <guid>https://kasraprime.com/blog/posts/channelb/</guid>
       <description>Type: #podcast
 Scientist and the Sea (Episode 60) status: #DONE The story of Tommy Gregory Thompson a scientist who turns to a thief. He is known for his leading role in the rediscovery of SS Central America on September 11, 1988.
 Silk Road Keywords: Tor Browser, Dark Web, Drugs, Libertarian
@@ -51,10 +94,10 @@ The story of Ross Ulbrik who created a dark net webiste to sell drugs. He was a 
     
     <item>
       <title>Jekyll Blogging</title>
-      <link>https://kasraprime.com/posts/blogging/</link>
+      <link>https://kasraprime.com/blog/posts/blogging/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kasraprime.com/posts/blogging/</guid>
+      <guid>https://kasraprime.com/blog/posts/blogging/</guid>
       <description>Tools Jekyll Edit files in BuildBlog folder. Do the following in terminal
 cd BuildBlog export PATH=$HOME/.gem/ruby/2.6.0/bin:$PATH JEKYLL_ENV=production bundle exec jekyll build Then copy the \_site contents to blog folder in your github repo.
 You should do this every time you add a new post.
@@ -62,12 +105,34 @@ Hugo Create the website (Once) hugo new site blog_name cd blog_name Add a new po
     </item>
     
     <item>
-      <title>Podcasts List</title>
-      <link>https://kasraprime.com/posts/podcasts/</link>
+      <title>Org Mode</title>
+      <link>https://kasraprime.com/blog/posts/org-mode/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kasraprime.com/posts/podcasts/</guid>
+      <guid>https://kasraprime.com/blog/posts/org-mode/</guid>
+      <description>Links  Insert a link: C-c C-l and then choose org: for example Edit a link: Same as inserting a link To link to a url use the following syntax: [[LINK][DESCRIPTION]] Link to other file formats: You can simply use the syntax above for urls, but instead of a url, provide the path to a file. You can alternatively use the command org-insert-link or keyborad shortcut spc m l l. The default keybinding is C-c C-l.</description>
+    </item>
+    
+    <item>
+      <title>Podcasts List</title>
+      <link>https://kasraprime.com/blog/posts/podcasts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/posts/podcasts/</guid>
       <description>Podcasts    Name Status Genre Author Start Date Rating Episodes      channelB #WIP Story, Fiction Ali Bandari 2021-04-13 5/5     Bplus #WIP Book Summary Ali Bandari  5/5      </description>
+    </item>
+    
+    <item>
+      <title>Regex</title>
+      <link>https://kasraprime.com/blog/posts/regex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/posts/regex/</guid>
+      <description>Basics Use this website interactively to learn. Use this website to generate regular expressions
+Exclude something Use [^something] to exclude some patterns.
+Include something Similar to excluding but [something].
+Include one or another [one|another]
+Repeats  * 0 or more of something + 1 or more of something  Some Characters  . Everything except new line.  in or der to search for [](.org) you need to write \[\[.*\]\]. Let&amp;rsquo;s say you want to keep the content between the brackets.</description>
     </item>
     
   </channel>

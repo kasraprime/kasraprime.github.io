@@ -6,7 +6,17 @@
     <description>Recent content on Blog of Kasra Darvish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Nov 2018 23:26:55 -0400</lastBuildDate><atom:link href="https://kasraprime.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Aug 2021 00:00:00 -0400</lastBuildDate><atom:link href="https://kasraprime.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Note Taking</title>
+      <link>https://kasraprime.com/blog/blog/note-taking/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blog/note-taking/</guid>
+      <description>Hey You Perfectionist Don&amp;rsquo;t spend endless hours contemplating the tools. Follow this rule:
+ As long as you have access to your data and they are palin text, you will be fine. The worst is that you can&amp;rsquo;t convert your files easily to another plain text format, but even in that case you can search your files and find the data you are looking for. Don&amp;rsquo;t think about publishing and making it look good, because notes evolve over time and you don&amp;rsquo;t want the pdfs of them you created two years ago.</description>
+    </item>
+    
     <item>
       <title>About Kasra Darvish</title>
       <link>https://kasraprime.com/blog/about/</link>
@@ -102,16 +112,6 @@ The story of Ross Ulbrik who created a dark net webiste to sell drugs. He was a 
 cd BuildBlog export PATH=$HOME/.gem/ruby/2.6.0/bin:$PATH JEKYLL_ENV=production bundle exec jekyll build Then copy the \_site contents to blog folder in your github repo.
 You should do this every time you add a new post.
 Hugo Create the website (Once) hugo new site blog_name cd blog_name Add a new post hugo new posts/my-first-post.md Publish The Blog hugo server -D # To see it live hugo -D # To build the website Output will be in .</description>
-    </item>
-    
-    <item>
-      <title>Note Taking</title>
-      <link>https://kasraprime.com/blog/blog/note-taking/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kasraprime.com/blog/blog/note-taking/</guid>
-      <description>Hey You Perfectionist Don&amp;rsquo;t spend endless hours contemplating the tools. Follow this rule:
- As long as you have access to your data and they are palin text, you will be fine. The worst is that you can&amp;rsquo;t convert your files easily to another plain text format, but even in that case you can search your files and find the data you are looking for. Don&amp;rsquo;t think about publishing and making it look good, because notes evolve over time and you don&amp;rsquo;t want the pdfs of them you created two years ago.</description>
     </item>
     
     <item>

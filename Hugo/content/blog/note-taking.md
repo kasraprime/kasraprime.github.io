@@ -1,7 +1,9 @@
 +++
 title = "Note Taking"
-author = ["Kasra Darvish"]
+author = "Kasra Darvish"
+date= 2021-08-10
 draft = false
+tags = ["notes", "note-taking", "eidtors"]
 +++
 
 ## Hey You Perfectionist {#hey-you-perfectionist}
@@ -18,6 +20,7 @@ Don't spend endless hours contemplating the tools. Follow this rule:
 ## TLDR {#tldr}
 
 **Editor**: I use [Emacs]({{< relref "emacs" >}}) for note taking and [Vscode]({{< relref "vscode" >}}) for coding.
+
 **Language**: I decided to use [Org Mode]({{< relref "org-mode" >}}) inside emacs for a few months now and I find it extremely helpful.
 
 
@@ -175,7 +178,7 @@ Then some of them are wikilinks to sections which contain `#` so just ignore tho
 Basically, you have to swap `\[([^\]]*)\]\(([^\]\)#.]*)\)` with `[$1]($2.org)`
 
 
-#### Move all markdown files to a single directory one directory above Knowledge such as ../all\\\_knowledge {#move-all-markdown-files-to-a-single-directory-one-directory-above-knowledge-such-as-dot-dot-all-knowledge}
+#### Move all markdown files to a single directory one directory{#move-all-markdown-files-to-a-single-directory-one-directory-above-knowledge-such-as-dot-dot-all-knowledge}
 
 ```sh
     find . -name \*.md -type f -exec mv {} ../all_knowledge \;

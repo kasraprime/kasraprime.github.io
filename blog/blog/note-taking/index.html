@@ -120,7 +120,7 @@
   
 
   
-        <a href="mailto:?subject=Check%20out%20this%20post%20by %5bKasra%20Darvish%5d&amp;body=https%3a%2f%2fkasraprime.com%2fblog%2fblog%2fnote-taking%2f" target="_blank" class="nav share-btn email" data-proofer-ignore>
+        <a href="mailto:?subject=Check%20out%20this%20post%20by Kasra%20Darvish&amp;body=https%3a%2f%2fkasraprime.com%2fblog%2fblog%2fnote-taking%2f" target="_blank" class="nav share-btn email" data-proofer-ignore>
           <p>Email</p>
         </a>
   
@@ -203,8 +203,8 @@
     
   </div>
   <div class="meta">
-    <time datetime="0001-01-01 00:00:00 &#43;0000 UTC">January 1, 0001</time>
-    <p>[Kasra Darvish]</p>
+    <time datetime="2021-08-10 00:00:00 -0400 EDT">August 10, 2021</time>
+    <p>Kasra Darvish</p>
     <p>17-Minute Read</p>
   </div>
 </header>
@@ -221,8 +221,8 @@
 <li>So, if you have a tool that&rsquo;s working for you now, just f***ing USE it and don&rsquo;t think about the future of the tool and what happens to it and to your future self.</li>
 </ol>
 <h2 id="tldr">TLDR</h2>
-<p><strong>Editor</strong>: I use <a href="/blog/blog/emacs/">Emacs</a> for note taking and <a href="/blog/blog/vscode/">Vscode</a> for coding.
-<strong>Language</strong>: I decided to use <a href="/blog/blog/org-mode/">Org Mode</a> inside emacs for a few months now and I find it extremely helpful.</p>
+<p><strong>Editor</strong>: I use <a href="/blog/blog/emacs/">Emacs</a> for note taking and <a href="/blog/blog/vscode/">Vscode</a> for coding.</p>
+<p><strong>Language</strong>: I decided to use <a href="/blog/blog/org-mode/">Org Mode</a> inside emacs for a few months now and I find it extremely helpful.</p>
 <h2 id="why">Why</h2>
 <blockquote>
 <p>Notes aren&rsquo;t a record of my thinking process. They are my <strong>thinking</strong> process. &ndash; Richard Feynman</p>
@@ -381,7 +381,7 @@ Maybe the best choice is to use org mode for paper summaries so that I can get u
 </code></pre></div><h4 id="add-dot-org-extension-to-the-regular-links-but-ignore-other-file-formats-and-sections">Add .org extension to the regular links but ignore other file formats and sections</h4>
 <p>Then some of them are wikilinks to sections which contain <code>#</code> so just ignore those with regex <code>[^#]</code> and some of them are wikilinks to othe file formats wich contain dots in the parantheses so ignore those as well using regex <code>[^.]</code> or altogether <code>[^#.]</code>. Next you can convert <code>[some-link](some-link.org)</code> to <code>[some-link](some-link.org)</code>
 Basically, you have to swap <code>\[([^\]]*)\]\(([^\]\)#.]*)\)</code> with <code>[$1]($2.org)</code></p>
-<h4 id="move-all-markdown-files-to-a-single-directory-one-directory-above-knowledge-such-as-dot-dot-all-knowledge">Move all markdown files to a single directory one directory above Knowledge such as ../all\_knowledge</h4>
+<h4 id="move-all-markdown-files-to-a-single-directory-one-directory-above-knowledge-such-as-dot-dot-all-knowledge">Move all markdown files to a single directory one directory</h4>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">    find . -name <span style="color:#ae81ff">\*</span>.md -type f -exec mv <span style="color:#f92672">{}</span> ../all_knowledge <span style="color:#ae81ff">\;</span>
 </code></pre></div><h4 id="convert-all-the-files-from-markdown-to-org">Convert all the files from markdown to org</h4>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">        $ find . -name <span style="color:#ae81ff">\*</span>.md -type f -exec pandoc  -f markdown -t org -o <span style="color:#f92672">{}</span>.org <span style="color:#f92672">{}</span> <span style="color:#ae81ff">\;</span>
@@ -844,7 +844,15 @@ I can replicate the feature that every entry of a table is a note for itself her
   
   
     <ul class="tags">
-      <li>None</li>
+      
+        
+          <li><a class="article-terms-link" href="/blog/tags/notes/">notes</a></li>
+        
+          <li><a class="article-terms-link" href="/blog/tags/note-taking/">note-taking</a></li>
+        
+          <li><a class="article-terms-link" href="/blog/tags/eidtors/">eidtors</a></li>
+        
+      
     </ul>
   
 </div>
@@ -889,7 +897,7 @@ I can replicate the feature that every entry of a table is a note for itself her
   
 
   
-        <a href="mailto:?subject=Check%20out%20this%20post%20by %5bKasra%20Darvish%5d&amp;body=https%3a%2f%2fkasraprime.com%2fblog%2fblog%2fnote-taking%2f" target="_blank" class="nav share-btn email" data-proofer-ignore>
+        <a href="mailto:?subject=Check%20out%20this%20post%20by Kasra%20Darvish&amp;body=https%3a%2f%2fkasraprime.com%2fblog%2fblog%2fnote-taking%2f" target="_blank" class="nav share-btn email" data-proofer-ignore>
           <p>Email</p>
         </a>
   
@@ -928,10 +936,8 @@ I can replicate the feature that every entry of a table is a note for itself her
   </article>
   <div class="pagination">
     
-      <a href="/blog/blog/blogging/" class="button left"><span>Jekyll Blogging</span></a>
     
-    
-      <a href="/blog/blog/org-mode/" class="button right"><span>Org Mode</span></a>
+      <a href="/blog/blog/2018-11-21-how-to-apply/" class="button right"><span>How to apply</span></a>
     
   </div>
 
@@ -942,6 +948,14 @@ I can replicate the feature that every entry of a table is a note for itself her
       <header>
         <h1>Recent Posts</h1>
       </header>
+      
+      <article class="mini-post">
+          
+        <header>
+          <h2><a href="/blog/blog/note-taking/">Note Taking</a></h2>
+          <time class="published" datetime="2021-08-10 00:00:00 -0400 EDT">August 10, 2021</time>
+        </header>
+      </article>
       
       <article class="mini-post">
           
@@ -971,14 +985,6 @@ I can replicate the feature that every entry of a table is a note for itself her
           
         <header>
           <h2><a href="/blog/blog/obsidian/"></a></h2>
-          <time class="published" datetime="0001-01-01 00:00:00 &#43;0000 UTC">January 1, 0001</time>
-        </header>
-      </article>
-      
-      <article class="mini-post">
-          
-        <header>
-          <h2><a href="/blog/blog/second-brain-zettlekasten/"></a></h2>
           <time class="published" datetime="0001-01-01 00:00:00 &#43;0000 UTC">January 1, 0001</time>
         </header>
       </article>
@@ -1070,7 +1076,7 @@ I can replicate the feature that every entry of a table is a note for itself her
       </ul>
   
   <p class="copyright">
-    © 2018 Blog of Kasra Darvish
+    © 2021 Blog of Kasra Darvish
       <br>
     Theme: <a href='https://github.com/pacollins/hugo-future-imperfect-slim' target='_blank' rel='noopener'>Hugo Future Imperfect Slim</a><br>A <a href='https://html5up.net/future-imperfect' target='_blank' rel='noopener'>HTML5 UP port</a> | Powered by <a href='https://gohugo.io/' title='0.85.0' target='_blank' rel='noopener'>Hugo</a>
   </p>
