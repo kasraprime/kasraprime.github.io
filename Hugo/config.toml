@@ -44,7 +44,7 @@ disableLanguages        = []
   hideEmptyStats        = false
 
   [params.meta]
-    description         = "A blog about the life of a Ph.D. student and his interests"
+    description         = "A blog about books, life, AI, and Ph.D. life"
     author              = "Kasra Darvish"
     favicon             = false
     svg                 = true

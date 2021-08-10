@@ -63,6 +63,18 @@
                 href="https://kasraprime.com/blog/tags/"
                 />
   </url><url>
+    <loc>https://kasraprime.com/blog/blog/editors-war/</loc>
+  </url><url>
+    <loc>https://kasraprime.com/blog/blog/emacs/</loc>
+  </url><url>
+    <loc>https://kasraprime.com/blog/blog/obsidian/</loc>
+  </url><url>
+    <loc>https://kasraprime.com/blog/blog/second-brain-zettlekasten/</loc>
+  </url><url>
+    <loc>https://kasraprime.com/blog/blog/vim/</loc>
+  </url><url>
+    <loc>https://kasraprime.com/blog/blog/vscode/</loc>
+  </url><url>
     <loc>https://kasraprime.com/blog/tags/#blog/</loc>
   </url><url>
     <loc>https://kasraprime.com/blog/categories/</loc>
@@ -81,8 +93,14 @@
   </url><url>
     <loc>https://kasraprime.com/blog/blog/blogging/</loc>
   </url><url>
+    <loc>https://kasraprime.com/blog/blog/note-taking/</loc>
+  </url><url>
+    <loc>https://kasraprime.com/blog/blog/org-mode/</loc>
+  </url><url>
     <loc>https://kasraprime.com/blog/tags/ph.d./</loc>
   </url><url>
     <loc>https://kasraprime.com/blog/blog/podcasts/</loc>
+  </url><url>
+    <loc>https://kasraprime.com/blog/blog/regex/</loc>
   </url>
 </urlset>

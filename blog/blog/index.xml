@@ -17,6 +17,60 @@
     </item>
     
     <item>
+      <title></title>
+      <link>https://kasraprime.com/blog/blog/editors-war/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blog/editors-war/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kasraprime.com/blog/blog/emacs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blog/emacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kasraprime.com/blog/blog/obsidian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blog/obsidian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kasraprime.com/blog/blog/second-brain-zettlekasten/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blog/second-brain-zettlekasten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kasraprime.com/blog/blog/vim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blog/vim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kasraprime.com/blog/blog/vscode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blog/vscode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Channelb</title>
       <link>https://kasraprime.com/blog/blog/channelb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -41,12 +95,44 @@ Hugo Create the website (Once) hugo new site blog_name cd blog_name Add a new po
     </item>
     
     <item>
+      <title>Note Taking</title>
+      <link>https://kasraprime.com/blog/blog/note-taking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blog/note-taking/</guid>
+      <description>Hey You Perfectionist Don&amp;rsquo;t spend endless hours contemplating the tools. Follow this rule:
+ As long as you have access to your data and they are palin text, you will be fine. The worst is that you can&amp;rsquo;t convert your files easily to another plain text format, but even in that case you can search your files and find the data you are looking for. Don&amp;rsquo;t think about publishing and making it look good, because notes evolve over time and you don&amp;rsquo;t want the pdfs of them you created two years ago.</description>
+    </item>
+    
+    <item>
+      <title>Org Mode</title>
+      <link>https://kasraprime.com/blog/blog/org-mode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blog/org-mode/</guid>
+      <description>Links  Insert a link: C-c C-l and then choose org: for example Edit a link: Same as inserting a link To link to a url use the following syntax: [[LINK][DESCRIPTION]] Link to other file formats: You can simply use the syntax above for urls, but instead of a url, provide the path to a file. You can alternatively use the command org-insert-link or keyborad shortcut spc m l l. The default keybinding is C-c C-l.</description>
+    </item>
+    
+    <item>
       <title>Podcasts List</title>
       <link>https://kasraprime.com/blog/blog/podcasts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kasraprime.com/blog/blog/podcasts/</guid>
       <description>Podcasts    Name Status Genre Author Start Date Rating Episodes      channelB #WIP Story, Fiction Ali Bandari 2021-04-13 5/5     Bplus #WIP Book Summary Ali Bandari  5/5      </description>
+    </item>
+    
+    <item>
+      <title>Regex</title>
+      <link>https://kasraprime.com/blog/blog/regex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blog/regex/</guid>
+      <description>Basics Use this website interactively to learn. Use this website to generate regular expressions
+Exclude something Use [^something] to exclude some patterns.
+Include something Similar to excluding but [something].
+Include one or another [one|another]
+Repeats  * 0 or more of something + 1 or more of something  Some Characters  . Everything except new line.  in or der to search for [](.org) you need to write \[\[.*\]\]. Let&amp;rsquo;s say you want to keep the content between the brackets.</description>
     </item>
     
   </channel>
