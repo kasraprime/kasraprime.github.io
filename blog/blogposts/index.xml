@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogposts on Blog of Kasra Darvish</title>
+    <link>https://kasraprime.com/blog/blogposts/</link>
+    <description>Recent content in Blogposts on Blog of Kasra Darvish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 03 Nov 2021 23:39:40 -0400</lastBuildDate><atom:link href="https://kasraprime.com/blog/blogposts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Journal: Announcements about my blogging activity</title>
+      <link>https://kasraprime.com/blog/blogposts/journal-announcement-2021-11-03/</link>
+      <pubDate>Wed, 03 Nov 2021 23:39:40 -0400</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/journal-announcement-2021-11-03/</guid>
+      <description>Some Announcement I am back at writing again. Don&amp;rsquo;t get me wrong, I still write everyday, but for myself, and it&amp;rsquo;s been a long time that I have not written anything publicly. Well, that&amp;rsquo;s about to change since I have some ideas to write about frequently. The theme of my frequent writings are the followings:
+ Research Paper Summaries Journals and Diary Book Summaries and Recommendations  Research Paper Summaries The papers are going to be mostly in Machine Learning and Artificial Intelligence, but I might write about other fields occasionally; these other areas could be Neuroscience, Cognitive Science, and more.</description>
+    </item>
+    
+    <item>
+      <title>Note Taking</title>
+      <link>https://kasraprime.com/blog/blogposts/note-taking/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/note-taking/</guid>
+      <description>Hey You Perfectionist Don&amp;rsquo;t spend endless hours contemplating the tools. Follow this rule:
+ As long as you have access to your data and they are palin text, you will be fine. The worst is that you can&amp;rsquo;t convert your files easily to another plain text format, but even in that case you can search your files and find the data you are looking for. Don&amp;rsquo;t think about publishing and making it look good, because notes evolve over time and you don&amp;rsquo;t want the pdfs of them you created two years ago.</description>
+    </item>
+    
+    <item>
+      <title>Blogging</title>
+      <link>https://kasraprime.com/blog/blogposts/blogging/</link>
+      <pubDate>Wed, 03 Mar 2021 23:39:40 -0400</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/blogging/</guid>
+      <description>Tools Jekyll Edit files in BuildBlog folder. Do the following in terminal
+cd BuildBlog export PATH=$HOME/.gem/ruby/2.6.0/bin:$PATH JEKYLL_ENV=production bundle exec jekyll build Then copy the \_site contents to blog folder in your github repo.
+You should do this every time you add a new post.
+Hugo Create the website (Once) hugo new site blog_name cd blog_name Add a new post hugo new posts/my-first-post.md Publish The Blog hugo server -D # To see it live hugo -D # To build the website Output will be in .</description>
+    </item>
+    
+    <item>
+      <title>How to apply</title>
+      <link>https://kasraprime.com/blog/blogposts/2018-11-21-how-to-apply/</link>
+      <pubDate>Wed, 21 Nov 2018 23:26:55 -0400</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/2018-11-21-how-to-apply/</guid>
+      <description>In this post, I am going to talk about the process of applying for universities in United States of America, but most of the parts are general and applicable to other countries as well. I am assuming that you are an undergrad or Master&amp;rsquo;s student and want to apply for Master&amp;rsquo;s or Ph.D. degree. Before starting to apply for universities, you need to have a reasonable resume, which means you have to learn different skills and have some research experiences in your field of study.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kasraprime.com/blog/blogposts/editors-war/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/editors-war/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kasraprime.com/blog/blogposts/emacs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/emacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kasraprime.com/blog/blogposts/obsidian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/obsidian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kasraprime.com/blog/blogposts/second-brain-zettlekasten/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/second-brain-zettlekasten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kasraprime.com/blog/blogposts/vim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/vim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kasraprime.com/blog/blogposts/vscode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/vscode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Channelb</title>
+      <link>https://kasraprime.com/blog/blogposts/channelb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/channelb/</guid>
+      <description>Type: #podcast
+Scientist and the Sea (Episode 60) status: #DONE The story of Tommy Gregory Thompson a scientist who turns to a thief. He is known for his leading role in the rediscovery of SS Central America on September 11, 1988.
+Silk Road Keywords: Tor Browser, Dark Web, Drugs, Libertarian
+The story of Ross Ulbrik who created a dark net webiste to sell drugs. He was a proponent of libertarian and freedom and that was why he started this website.</description>
+    </item>
+    
+    <item>
+      <title>Org Mode</title>
+      <link>https://kasraprime.com/blog/blogposts/org-mode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/org-mode/</guid>
+      <description>Links  Insert a link: C-c C-l and then choose org: for example Edit a link: Same as inserting a link To link to a url use the following syntax: [[LINK][DESCRIPTION]] Link to other file formats: You can simply use the syntax above for urls, but instead of a url, provide the path to a file. You can alternatively use the command org-insert-link or keyborad shortcut spc m l l. The default keybinding is C-c C-l.</description>
+    </item>
+    
+    <item>
+      <title>Podcasts List</title>
+      <link>https://kasraprime.com/blog/blogposts/podcasts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/podcasts/</guid>
+      <description>Podcasts    Name Status Genre Author Start Date Rating Episodes      channelB #WIP Story, Fiction Ali Bandari 2021-04-13 5/5     Bplus #WIP Book Summary Ali Bandari  5/5      </description>
+    </item>
+    
+    <item>
+      <title>Regex</title>
+      <link>https://kasraprime.com/blog/blogposts/regex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/regex/</guid>
+      <description>Basics Use this website interactively to learn. Use this website to generate regular expressions
+Exclude something Use [^something] to exclude some patterns.
+Include something Similar to excluding but [something].
+Include one or another [one|another]
+Repeats  * 0 or more of something + 1 or more of something  Some Characters  . Everything except new line.  in or der to search for [](.org) you need to write \[\[.*\]\]. Let&amp;rsquo;s say you want to keep the content between the brackets.</description>
+    </item>
+    
+  </channel>
+</rss>

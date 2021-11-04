@@ -5,6 +5,25 @@
     <link>https://kasraprime.com/blog/categories/</link>
     <description>Recent content in Categories on Blog of Kasra Darvish</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://kasraprime.com/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 03 Nov 2021 23:39:40 -0400</lastBuildDate><atom:link href="https://kasraprime.com/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Journal</title>
+      <link>https://kasraprime.com/blog/categories/journal/</link>
+      <pubDate>Wed, 03 Nov 2021 23:39:40 -0400</pubDate>
+      
+      <guid>https://kasraprime.com/blog/categories/journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writing</title>
+      <link>https://kasraprime.com/blog/categories/writing/</link>
+      <pubDate>Wed, 03 Mar 2021 23:39:40 -0400</pubDate>
+      
+      <guid>https://kasraprime.com/blog/categories/writing/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

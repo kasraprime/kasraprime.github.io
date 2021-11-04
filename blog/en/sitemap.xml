@@ -2,21 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kasraprime.com/blog/blog/</loc>
-    <lastmod>2021-08-10T00:00:00-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://kasraprime.com/blog/fa/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kasraprime.com/blog/blog/"
-                />
-  </url><url>
     <loc>https://kasraprime.com/blog/</loc>
-    <lastmod>2021-08-10T00:00:00-04:00</lastmod>
+    <lastmod>2021-11-03T23:39:40-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
@@ -28,20 +15,49 @@
                 href="https://kasraprime.com/blog/"
                 />
   </url><url>
-    <loc>https://kasraprime.com/blog/tags/eidtors/</loc>
-    <lastmod>2021-08-10T00:00:00-04:00</lastmod>
+    <loc>https://kasraprime.com/blog/tags/blogging/</loc>
+    <lastmod>2021-11-03T23:39:40-04:00</lastmod>
   </url><url>
-    <loc>https://kasraprime.com/blog/blog/note-taking/</loc>
-    <lastmod>2021-08-10T00:00:00-04:00</lastmod>
+    <loc>https://kasraprime.com/blog/blogposts/</loc>
+    <lastmod>2021-11-03T23:39:40-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://kasraprime.com/blog/fa/blogposts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kasraprime.com/blog/blogposts/"
+                />
   </url><url>
-    <loc>https://kasraprime.com/blog/tags/note-taking/</loc>
-    <lastmod>2021-08-10T00:00:00-04:00</lastmod>
+    <loc>https://kasraprime.com/blog/categories/</loc>
+    <lastmod>2021-11-03T23:39:40-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://kasraprime.com/blog/fa/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kasraprime.com/blog/categories/"
+                />
   </url><url>
-    <loc>https://kasraprime.com/blog/tags/notes/</loc>
-    <lastmod>2021-08-10T00:00:00-04:00</lastmod>
+    <loc>https://kasraprime.com/blog/tags/diary/</loc>
+    <lastmod>2021-11-03T23:39:40-04:00</lastmod>
+  </url><url>
+    <loc>https://kasraprime.com/blog/categories/journal/</loc>
+    <lastmod>2021-11-03T23:39:40-04:00</lastmod>
+  </url><url>
+    <loc>https://kasraprime.com/blog/blogposts/journal-announcement-2021-11-03/</loc>
+    <lastmod>2021-11-03T23:39:40-04:00</lastmod>
+  </url><url>
+    <loc>https://kasraprime.com/blog/tags/journaling/</loc>
+    <lastmod>2021-11-03T23:39:40-04:00</lastmod>
   </url><url>
     <loc>https://kasraprime.com/blog/tags/</loc>
-    <lastmod>2021-08-10T00:00:00-04:00</lastmod>
+    <lastmod>2021-11-03T23:39:40-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
@@ -52,6 +68,27 @@
                 hreflang="en"
                 href="https://kasraprime.com/blog/tags/"
                 />
+  </url><url>
+    <loc>https://kasraprime.com/blog/tags/eidtors/</loc>
+    <lastmod>2021-08-10T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://kasraprime.com/blog/blogposts/note-taking/</loc>
+    <lastmod>2021-08-10T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://kasraprime.com/blog/tags/note-taking/</loc>
+    <lastmod>2021-08-10T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://kasraprime.com/blog/tags/notes/</loc>
+    <lastmod>2021-08-10T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://kasraprime.com/blog/tags/#blog/</loc>
+    <lastmod>2021-03-03T23:39:40-04:00</lastmod>
+  </url><url>
+    <loc>https://kasraprime.com/blog/blogposts/blogging/</loc>
+    <lastmod>2021-03-03T23:39:40-04:00</lastmod>
+  </url><url>
+    <loc>https://kasraprime.com/blog/categories/writing/</loc>
+    <lastmod>2021-03-03T23:39:40-04:00</lastmod>
   </url><url>
     <loc>https://kasraprime.com/blog/about/</loc>
     <lastmod>2020-02-11T00:00:00+00:00</lastmod>
@@ -72,45 +109,29 @@
     <loc>https://kasraprime.com/blog/tags/grad-school/</loc>
     <lastmod>2018-11-21T23:26:55-04:00</lastmod>
   </url><url>
-    <loc>https://kasraprime.com/blog/blog/2018-11-21-how-to-apply/</loc>
+    <loc>https://kasraprime.com/blog/blogposts/2018-11-21-how-to-apply/</loc>
     <lastmod>2018-11-21T23:26:55-04:00</lastmod>
   </url><url>
-    <loc>https://kasraprime.com/blog/blog/editors-war/</loc>
+    <loc>https://kasraprime.com/blog/blogposts/editors-war/</loc>
   </url><url>
-    <loc>https://kasraprime.com/blog/blog/emacs/</loc>
+    <loc>https://kasraprime.com/blog/blogposts/emacs/</loc>
   </url><url>
-    <loc>https://kasraprime.com/blog/blog/obsidian/</loc>
+    <loc>https://kasraprime.com/blog/blogposts/obsidian/</loc>
   </url><url>
-    <loc>https://kasraprime.com/blog/blog/second-brain-zettlekasten/</loc>
+    <loc>https://kasraprime.com/blog/blogposts/second-brain-zettlekasten/</loc>
   </url><url>
-    <loc>https://kasraprime.com/blog/blog/vim/</loc>
+    <loc>https://kasraprime.com/blog/blogposts/vim/</loc>
   </url><url>
-    <loc>https://kasraprime.com/blog/blog/vscode/</loc>
+    <loc>https://kasraprime.com/blog/blogposts/vscode/</loc>
   </url><url>
-    <loc>https://kasraprime.com/blog/tags/#blog/</loc>
+    <loc>https://kasraprime.com/blog/blogposts/channelb/</loc>
   </url><url>
-    <loc>https://kasraprime.com/blog/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://kasraprime.com/blog/fa/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kasraprime.com/blog/categories/"
-                />
-  </url><url>
-    <loc>https://kasraprime.com/blog/blog/channelb/</loc>
-  </url><url>
-    <loc>https://kasraprime.com/blog/blog/blogging/</loc>
-  </url><url>
-    <loc>https://kasraprime.com/blog/blog/org-mode/</loc>
+    <loc>https://kasraprime.com/blog/blogposts/org-mode/</loc>
   </url><url>
     <loc>https://kasraprime.com/blog/tags/ph.d./</loc>
   </url><url>
-    <loc>https://kasraprime.com/blog/blog/podcasts/</loc>
+    <loc>https://kasraprime.com/blog/blogposts/podcasts/</loc>
   </url><url>
-    <loc>https://kasraprime.com/blog/blog/regex/</loc>
+    <loc>https://kasraprime.com/blog/blogposts/regex/</loc>
   </url>
 </urlset>

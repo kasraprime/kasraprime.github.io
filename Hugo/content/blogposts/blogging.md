@@ -1,8 +1,10 @@
 +++
-title = "Jekyll Blogging"
+title = "Blogging"
 author = ["Kasra Darvish"]
+date = 2021-03-03T23:39:40-04:00
 draft = false
 tags = ["#blog"]
+categories = ["Writing"]
 +++
 
 # Tools
