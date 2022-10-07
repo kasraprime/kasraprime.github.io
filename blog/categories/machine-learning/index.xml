@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine-Learning on Blog of Kasra Darvish</title>
+    <link>https://kasraprime.com/blog/categories/machine-learning/</link>
+    <description>Recent content in Machine-Learning on Blog of Kasra Darvish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 07 Oct 2022 15:13:35 -0400</lastBuildDate><atom:link href="https://kasraprime.com/blog/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Text-to-Video AI Models: A New Hype in Multimodal Machine Learning</title>
+      <link>https://kasraprime.com/blog/blogposts/text-to-video-ai-models/</link>
+      <pubDate>Fri, 07 Oct 2022 15:13:35 -0400</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/text-to-video-ai-models/</guid>
+      <description>There has been great hype in multimodal research these past few days because of the release of multiple text-to-video models while text-to-image models are still pretty hype and not perfect yet. Diffusion models such as GLIDE in general and stable diffusion in particular are the state-of-the-art models for text-to-image tasks as of now. However, multiple papers came out recently that tackle the task of generating videos from text prompts or still images.</description>
+    </item>
+    
+  </channel>
+</rss>

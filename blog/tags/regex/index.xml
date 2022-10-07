@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>regex on Blog of Kasra Darvish</title>
+    <link>https://kasraprime.com/blog/tags/regex/</link>
+    <description>Recent content in regex on Blog of Kasra Darvish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 12 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://kasraprime.com/blog/tags/regex/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Regex</title>
+      <link>https://kasraprime.com/blog/blogposts/regex/</link>
+      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/regex/</guid>
+      <description>Basics Use this website interactively to learn. Use this website to generate regular expressions
+Exclude something Use [^something] to exclude some patterns.
+Include something Similar to excluding but [something].
+Include one or another [one|another]
+Repeats * 0 or more of something + 1 or more of something Some Characters . Everything except new line. in or der to search for [](.org) you need to write \[\[.*\]\]. Let&amp;rsquo;s say you want to keep the content between the brackets.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-<meta name="generator" content="Hugo 0.85.0" /><meta property="og:site_name" content="Blog of Kasra Darvish">
+<meta name="generator" content="Hugo 0.101.0" /><meta property="og:site_name" content="Blog of Kasra Darvish">
   <meta property="og:title" content="Note Taking">
   <meta property="og:description" content="A blog about books, life, AI, and Ph.D. life">
   <meta property="description" content="A blog about books, life, AI, and Ph.D. life">
@@ -25,7 +25,7 @@
 <header id="site-header">
   <nav id="site-nav">
     <h1 class="nav-title">
-      <a href="/blog/" class="nav">
+      <a href="/" class="nav">
         
           Note Taking
         
@@ -132,7 +132,7 @@
 
     <div id="wrapper">
       <section id="site-intro" >
-  <a href="/blog/"><img src="https://kasraprime.com/blog/img/kasra.JPG" class="circle" width="250" alt="This is me" /></a>
+  <a href="/"><img src="https://kasraprime.com/blog/img/kasra.JPG" class="circle" width="250" alt="This is me" /></a>
   <header>
     <h1>Kasra Darvish</h1>
   </header>
@@ -203,7 +203,7 @@
     
   </div>
   <div class="meta">
-    <time datetime="2021-08-10 00:00:00 -0400 EDT">August 10, 2021</time>
+    <time datetime="2021-08-10 00:00:00 &#43;0000 UTC">August 10, 2021</time>
     <p>Kasra Darvish</p>
     <p>17-Minute Read</p>
   </div>
@@ -228,7 +228,7 @@
 <p>Notes aren&rsquo;t a record of my thinking process. They are my <strong>thinking</strong> process. &ndash; Richard Feynman</p>
 </blockquote>
 <ol>
-<li>The primary purpose of note-taking should not be for storing ideas, but for developing them. When we take notes, we should ask <strong>&ldquo;in what context do I want to see this note again?&quot;</strong></li>
+<li>The primary purpose of note-taking should not be for storing ideas, but for developing them. When we take notes, we should ask <strong>&ldquo;in what context do I want to see this note again?&rdquo;</strong></li>
 <li>All the time I spend configuring and debugging Emacs is time I&rsquo;m not spending doing something more productive,</li>
 <li>Restaurant kitchens are not pretty because professionals care about efficiency and not pretty.</li>
 </ol>
@@ -270,21 +270,21 @@ The other problem with vscode is the preview/export to pdf which is not as power
 <h2 id="language-of-notes">Language of Notes</h2>
 <h3 id="markdown">Markdown</h3>
 <p>Use mermaid to draw graphs in your markdown note. The following diagram is to decide which language to use</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-text" data-lang="text">    graph TD;
-        A[org mode] --&gt; |No| Latex --&gt; No;
-        A --&gt; |No| M[Markdown];
-        A --&gt; |Yes| Emacs;
-        M --&gt; Apps --&gt; Zettlr;
-        Apps --&gt; Obsidian;
-        M --&gt; T[Editors] --&gt; Emacs;
-        Emacs --&gt; Doom;
-        Emacs --&gt; Spacemacs;
-        Emacs --&gt; GNU;
-        T[Editors] --&gt; V[VS Code] --&gt; Foam;
-        V --&gt; Dendron;
-        V --&gt; Memo;
-        T[Editors] --&gt; vim;
-</code></pre></div><h3 id="org-mode">Org Mode</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>    graph TD;
+</span></span><span style="display:flex;"><span>        A[org mode] --&gt; |No| Latex --&gt; No;
+</span></span><span style="display:flex;"><span>        A --&gt; |No| M[Markdown];
+</span></span><span style="display:flex;"><span>        A --&gt; |Yes| Emacs;
+</span></span><span style="display:flex;"><span>        M --&gt; Apps --&gt; Zettlr;
+</span></span><span style="display:flex;"><span>        Apps --&gt; Obsidian;
+</span></span><span style="display:flex;"><span>        M --&gt; T[Editors] --&gt; Emacs;
+</span></span><span style="display:flex;"><span>        Emacs --&gt; Doom;
+</span></span><span style="display:flex;"><span>        Emacs --&gt; Spacemacs;
+</span></span><span style="display:flex;"><span>        Emacs --&gt; GNU;
+</span></span><span style="display:flex;"><span>        T[Editors] --&gt; V[VS Code] --&gt; Foam;
+</span></span><span style="display:flex;"><span>        V --&gt; Dendron;
+</span></span><span style="display:flex;"><span>        V --&gt; Memo;
+</span></span><span style="display:flex;"><span>        T[Editors] --&gt; vim;
+</span></span></code></pre></div><h3 id="org-mode">Org Mode</h3>
 <p>See <a href="/blog/blogposts/org-mode/">Org Mode</a> for a comprehensive instruction and to see what&rsquo;s possible with org mode.</p>
 <h3 id="markdown-or-org-mode">Markdown or Org mode</h3>
 <p>Read this: <a href="http://www.pwills.com/post/2019/09/24/blogging-in-org.html">http://www.pwills.com/post/2019/09/24/blogging-in-org.html</a></p>
@@ -366,80 +366,80 @@ Maybe the best choice is to use org mode for paper summaries so that I can get u
 <li><a href="http://doc.norang.ca/org-mode.html">http://doc.norang.ca/org-mode.html</a></li>
 </ol>
 <h4 id="exporting">Exporting</h4>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-text" data-lang="text">    graph TD;
-        Markdown --&gt; HTML --&gt; PDF ;
-        Org --&gt; Markdown;
-        Org --&gt; LaTeX --&gt; PDF;
-        Org --&gt; HTML;
-</code></pre></div><h3 id="convert-markdown-to-org-mode">Convert Markdown to org mode</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>    graph TD;
+</span></span><span style="display:flex;"><span>        Markdown --&gt; HTML --&gt; PDF ;
+</span></span><span style="display:flex;"><span>        Org --&gt; Markdown;
+</span></span><span style="display:flex;"><span>        Org --&gt; LaTeX --&gt; PDF;
+</span></span><span style="display:flex;"><span>        Org --&gt; HTML;
+</span></span></code></pre></div><h3 id="convert-markdown-to-org-mode">Convert Markdown to org mode</h3>
 <p><a href="https://emacs.stackexchange.com/questions/5465/how-to-migrate-markdown-files-to-emacs-org-mode-format">resource</a></p>
 <h4 id="change-wikilinks-to-regular-markdown-links">Change wikilinks to regular markdown links</h4>
 <p>Use vs code&rsquo;s find and replace with regex to change links from <code>[some-link](some-link.org)</code> to <code>[some-link](some-link.org)</code>. Use a regexp similar to below to find wikilinks</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-text" data-lang="text">    \[\[([^\]]*)\]\]
-</code></pre></div><p>and replace them by</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-text" data-lang="text">    `[$1]($1.org)`
-</code></pre></div><h4 id="add-dot-org-extension-to-the-regular-links-but-ignore-other-file-formats-and-sections">Add .org extension to the regular links but ignore other file formats and sections</h4>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>    \[\[([^\]]*)\]\]
+</span></span></code></pre></div><p>and replace them by</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>    `[$1]($1.org)`
+</span></span></code></pre></div><h4 id="add-dot-org-extension-to-the-regular-links-but-ignore-other-file-formats-and-sections">Add .org extension to the regular links but ignore other file formats and sections</h4>
 <p>Then some of them are wikilinks to sections which contain <code>#</code> so just ignore those with regex <code>[^#]</code> and some of them are wikilinks to othe file formats wich contain dots in the parantheses so ignore those as well using regex <code>[^.]</code> or altogether <code>[^#.]</code>. Next you can convert <code>[some-link](some-link.org)</code> to <code>[some-link](some-link.org)</code>
 Basically, you have to swap <code>\[([^\]]*)\]\(([^\]\)#.]*)\)</code> with <code>[$1]($2.org)</code></p>
 <h4 id="move-all-markdown-files-to-a-single-directory-one-directory-above-knowledge-such-as-dot-dot-all-knowledge">Move all markdown files to a single directory one directory</h4>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">    find . -name <span style="color:#ae81ff">\*</span>.md -type f -exec mv <span style="color:#f92672">{}</span> ../all_knowledge <span style="color:#ae81ff">\;</span>
-</code></pre></div><h4 id="convert-all-the-files-from-markdown-to-org">Convert all the files from markdown to org</h4>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">        $ find . -name <span style="color:#ae81ff">\*</span>.md -type f -exec pandoc  -f markdown -t org -o <span style="color:#f92672">{}</span>.org <span style="color:#f92672">{}</span> <span style="color:#ae81ff">\;</span>
-</code></pre></div><!--list-separator-->
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>    find . -name <span style="color:#ae81ff">\*</span>.md -type f -exec mv <span style="color:#f92672">{}</span> ../all_knowledge <span style="color:#ae81ff">\;</span>
+</span></span></code></pre></div><h4 id="convert-all-the-files-from-markdown-to-org">Convert all the files from markdown to org</h4>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>        $ find . -name <span style="color:#ae81ff">\*</span>.md -type f -exec pandoc  -f markdown -t org -o <span style="color:#f92672">{}</span>.org <span style="color:#f92672">{}</span> <span style="color:#ae81ff">\;</span>
+</span></span></code></pre></div><!--list-separator-->
 <ul>
 <li>
 <p>#DONE the script above convert the files but gives them the extension of .md.org while I want .org only so that I can have consistent links. Use the following script instead.</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">        <span style="color:#66d9ef">for</span> md in <span style="color:#66d9ef">$(</span>find . -name <span style="color:#ae81ff">\*</span>.md -type f<span style="color:#66d9ef">)</span>
-        <span style="color:#66d9ef">do</span>
-        echo <span style="color:#e6db74">${</span>md<span style="color:#e6db74">}</span>
-        <span style="color:#75715e"># echo &#34;${md%.*}&#34;</span>
-        pandoc --wrap<span style="color:#f92672">=</span>preserve -f markdown -t org -o <span style="color:#e6db74">${</span>md%.*<span style="color:#e6db74">}</span>.org <span style="color:#e6db74">${</span>md<span style="color:#e6db74">}</span>;
-        <span style="color:#66d9ef">done</span>
-</code></pre></div><p>To convert only one file use</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">    pandoc -f markdown -t org -o newfile.org original-file.markdown
-</code></pre></div></li>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>        <span style="color:#66d9ef">for</span> md in <span style="color:#66d9ef">$(</span>find . -name <span style="color:#ae81ff">\*</span>.md -type f<span style="color:#66d9ef">)</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">do</span>
+</span></span><span style="display:flex;"><span>        echo <span style="color:#e6db74">${</span>md<span style="color:#e6db74">}</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#75715e"># echo &#34;${md%.*}&#34;</span>
+</span></span><span style="display:flex;"><span>        pandoc --wrap<span style="color:#f92672">=</span>preserve -f markdown -t org -o <span style="color:#e6db74">${</span>md%.*<span style="color:#e6db74">}</span>.org <span style="color:#e6db74">${</span>md<span style="color:#e6db74">}</span>;
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">done</span>
+</span></span></code></pre></div><p>To convert only one file use</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>    pandoc -f markdown -t org -o newfile.org original-file.markdown
+</span></span></code></pre></div></li>
 </ul>
 <h4 id="remove-custom-id-properties-created-by-pandoc-for-each-sections">Remove custom\_id properties created by Pandoc for each sections</h4>
 <p>Use vscode&rsquo;s find and replace with regex to remove them easily by</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-text" data-lang="text">    :PROPERTIES:\n.*:CUSTOM_ID:.*\n.*:END:
-</code></pre></div><h4 id="convert-tags-to-org-headlines-with-keywords-dot">Convert tags to org headlines with keywords.</h4>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>    :PROPERTIES:\n.*:CUSTOM_ID:.*\n.*:END:
+</span></span></code></pre></div><h4 id="convert-tags-to-org-headlines-with-keywords-dot">Convert tags to org headlines with keywords.</h4>
 <p>Again, use vscode&rsquo;s find and replace with regex to remove them easily by the following.</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-text" data-lang="text">    .* \[( |x)\].*#(TODO|DONE|HOLD|KILL)
-</code></pre></div><p>and replace it by</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-text" data-lang="text">    *** $2
-</code></pre></div><p>Note that if a tag is not present in your emacs org-todo-keywords, then you need to convert that one separately so that you can map it to a specific keyword.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>    .* \[( |x)\].*#(TODO|DONE|HOLD|KILL)
+</span></span></code></pre></div><p>and replace it by</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>    *** $2
+</span></span></code></pre></div><p>Note that if a tag is not present in your emacs org-todo-keywords, then you need to convert that one separately so that you can map it to a specific keyword.</p>
 <h4 id="add-title-author-and-org-roam-keys">Add title, author, and org-roam keys</h4>
 <p>Use the following bash script:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">    <span style="color:#66d9ef">for</span> org in <span style="color:#66d9ef">$(</span>find . -name <span style="color:#ae81ff">\*</span>.org -type f<span style="color:#66d9ef">)</span>
-    <span style="color:#66d9ef">do</span>
-        name<span style="color:#f92672">=</span><span style="color:#66d9ef">$(</span>basename <span style="color:#e6db74">${</span>org%.*<span style="color:#e6db74">}</span><span style="color:#66d9ef">)</span> <span style="color:#75715e"># Remove extension and path to file</span>
-        title<span style="color:#f92672">=</span><span style="color:#66d9ef">$(</span>echo $name | tr <span style="color:#e6db74">&#34;-&#34;</span> <span style="color:#e6db74">&#34; &#34;</span><span style="color:#66d9ef">)</span> <span style="color:#75715e"># Replace dashes with whitespaces</span>
-        title<span style="color:#f92672">=</span><span style="color:#66d9ef">$(</span>echo $title | python3 -c <span style="color:#e6db74">&#34;import sys; print(sys.stdin.read().title())&#34;</span><span style="color:#66d9ef">)</span> <span style="color:#75715e"># Capitalize first letters</span>
-        <span style="color:#75715e"># echo &#34;#+TITLE: &#34;${title}</span>
-        <span style="color:#f92672">(</span>echo <span style="color:#e6db74">&#34;#+ROAM_KEY: &#34;</span><span style="color:#e6db74">${</span>name<span style="color:#e6db74">}</span> <span style="color:#f92672">&amp;&amp;</span> cat $org<span style="color:#f92672">)</span> &gt; filename1 <span style="color:#f92672">&amp;&amp;</span> mv filename1 $org <span style="color:#75715e"># Third line of org file</span>
-        <span style="color:#f92672">(</span>echo <span style="color:#e6db74">&#34;#+AUTHOR: Kasra Darvish&#34;</span> <span style="color:#f92672">&amp;&amp;</span> cat $org<span style="color:#f92672">)</span> &gt; filename1 <span style="color:#f92672">&amp;&amp;</span> mv filename1 $org <span style="color:#75715e"># Second line of org file</span>
-        <span style="color:#f92672">(</span>echo <span style="color:#e6db74">&#34;#+TITLE: &#34;</span><span style="color:#e6db74">${</span>title<span style="color:#e6db74">}</span> <span style="color:#f92672">&amp;&amp;</span> cat $org<span style="color:#f92672">)</span> &gt; filename1 <span style="color:#f92672">&amp;&amp;</span> mv filename1 $org <span style="color:#75715e"># First line of org file</span>
-    <span style="color:#66d9ef">done</span>
-</code></pre></div><h4 id="now-you-can-convert-links-to-section-to-its-correct-format-in-org">Now you can convert links to section to its correct format in org</h4>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>    <span style="color:#66d9ef">for</span> org in <span style="color:#66d9ef">$(</span>find . -name <span style="color:#ae81ff">\*</span>.org -type f<span style="color:#66d9ef">)</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">do</span>
+</span></span><span style="display:flex;"><span>        name<span style="color:#f92672">=</span><span style="color:#66d9ef">$(</span>basename <span style="color:#e6db74">${</span>org%.*<span style="color:#e6db74">}</span><span style="color:#66d9ef">)</span> <span style="color:#75715e"># Remove extension and path to file</span>
+</span></span><span style="display:flex;"><span>        title<span style="color:#f92672">=</span><span style="color:#66d9ef">$(</span>echo $name | tr <span style="color:#e6db74">&#34;-&#34;</span> <span style="color:#e6db74">&#34; &#34;</span><span style="color:#66d9ef">)</span> <span style="color:#75715e"># Replace dashes with whitespaces</span>
+</span></span><span style="display:flex;"><span>        title<span style="color:#f92672">=</span><span style="color:#66d9ef">$(</span>echo $title | python3 -c <span style="color:#e6db74">&#34;import sys; print(sys.stdin.read().title())&#34;</span><span style="color:#66d9ef">)</span> <span style="color:#75715e"># Capitalize first letters</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#75715e"># echo &#34;#+TITLE: &#34;${title}</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">(</span>echo <span style="color:#e6db74">&#34;#+ROAM_KEY: &#34;</span><span style="color:#e6db74">${</span>name<span style="color:#e6db74">}</span> <span style="color:#f92672">&amp;&amp;</span> cat $org<span style="color:#f92672">)</span> &gt; filename1 <span style="color:#f92672">&amp;&amp;</span> mv filename1 $org <span style="color:#75715e"># Third line of org file</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">(</span>echo <span style="color:#e6db74">&#34;#+AUTHOR: Kasra Darvish&#34;</span> <span style="color:#f92672">&amp;&amp;</span> cat $org<span style="color:#f92672">)</span> &gt; filename1 <span style="color:#f92672">&amp;&amp;</span> mv filename1 $org <span style="color:#75715e"># Second line of org file</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">(</span>echo <span style="color:#e6db74">&#34;#+TITLE: &#34;</span><span style="color:#e6db74">${</span>title<span style="color:#e6db74">}</span> <span style="color:#f92672">&amp;&amp;</span> cat $org<span style="color:#f92672">)</span> &gt; filename1 <span style="color:#f92672">&amp;&amp;</span> mv filename1 $org <span style="color:#75715e"># First line of org file</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">done</span>
+</span></span></code></pre></div><h4 id="now-you-can-convert-links-to-section-to-its-correct-format-in-org">Now you can convert links to section to its correct format in org</h4>
 <p>Use vscode&rsquo;s find and replace tool to do that, or simply modify them while you encounter them.
 swap the <code>\[\[file:([^\]]*)#([^\]]*)\]\[([^\]\)]*)#([^\]]*)\]\]</code> with <code>[[file:$1.org][$3]]</code>.</p>
 <p>To convert all the files use:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">    $ find . -name <span style="color:#ae81ff">\*</span>.md -type f -exec pandoc  -f markdown -t org -o <span style="color:#f92672">{}</span>.org <span style="color:#f92672">{}</span> <span style="color:#ae81ff">\;</span>
-</code></pre></div><h4 id="converting-markdown-to-org-mode-with-this-syntax-doesn-t-convert-links-at-all-and-all-of-them-are-broken-dot-first-i-wanted-to-use-the-following-script-but-there-were-complexities-including-having-multiple-files-of-the-same-name-dot-anyway-i-came-up-with-an-idea"><span class="org-todo done KILL">KILL</span> Converting markdown to org mode with this syntax doesn&rsquo;t convert links at all and all of them are broken. First, I wanted to use the following script but there were complexities including having multiple files of the same name. Anyway, I came up with an idea:</h4>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>    $ find . -name <span style="color:#ae81ff">\*</span>.md -type f -exec pandoc  -f markdown -t org -o <span style="color:#f92672">{}</span>.org <span style="color:#f92672">{}</span> <span style="color:#ae81ff">\;</span>
+</span></span></code></pre></div><h4 id="converting-markdown-to-org-mode-with-this-syntax-doesn-t-convert-links-at-all-and-all-of-them-are-broken-dot-first-i-wanted-to-use-the-following-script-but-there-were-complexities-including-having-multiple-files-of-the-same-name-dot-anyway-i-came-up-with-an-idea"><span class="org-todo done KILL">KILL</span> Converting markdown to org mode with this syntax doesn&rsquo;t convert links at all and all of them are broken. First, I wanted to use the following script but there were complexities including having multiple files of the same name. Anyway, I came up with an idea:</h4>
 <p>I can move all my files to a single folder. Then I can use regex to change the wikilinks to markdown links and after that adding org extension to the ones that don&rsquo;t have any extension. Next, using Pandoc I can convert my files to org-mode. Finally using dired and org-roam in emacs I can easily move files to corresponding folders again.</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">    <span style="color:#66d9ef">for</span> f <span style="color:#f92672">in</span> all_markdown_files:
-        <span style="color:#66d9ef">for</span> wikilink a [a](a<span style="color:#f92672">.</span>org) <span style="color:#f92672">in</span> f:
-            find a <span style="color:#f92672">in</span> all_files
-            newlink <span style="color:#f92672">=</span> os<span style="color:#f92672">.</span>getcwd() <span style="color:#f92672">+</span><span style="color:#e6db74">&#39;/&#39;</span> <span style="color:#f92672">+</span> a <span style="color:#f92672">+</span> <span style="color:#e6db74">&#39;.org&#39;</span>
-            replace wikilink <span style="color:#66d9ef">with</span> newlink
-</code></pre></div><h4 id="the-script-above-convert-the-files-but-gives-them-the-extension-of-dot-md-dot-org-while-i-want-dot-org-only-so-that-i-can-have-consistent-links-dot-use-the-following-script-instead-dot"><span class="org-todo done DONE">DONE</span> the script above convert the files but gives them the extension of .md.org while I want .org only so that I can have consistent links. Use the following script instead.</h4>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">    <span style="color:#66d9ef">for</span> md in <span style="color:#66d9ef">$(</span>find . -name <span style="color:#ae81ff">\*</span>.md -type f<span style="color:#66d9ef">)</span>
-    <span style="color:#66d9ef">do</span>
-    echo <span style="color:#e6db74">${</span>md<span style="color:#e6db74">}</span>
-    <span style="color:#75715e"># echo &#34;${md%.*}&#34;</span>
-    pandoc -f markdown -t org -o <span style="color:#e6db74">${</span>md%.*<span style="color:#e6db74">}</span>.org <span style="color:#e6db74">${</span>md<span style="color:#e6db74">}</span>;
-    <span style="color:#66d9ef">done</span>
-</code></pre></div><p>To convert only one file use <code>pandoc -f markdown -t org -o newfile.org original-file.markdown</code></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>    <span style="color:#66d9ef">for</span> f <span style="color:#f92672">in</span> all_markdown_files:
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">for</span> wikilink a [a](a<span style="color:#f92672">.</span>org) <span style="color:#f92672">in</span> f:
+</span></span><span style="display:flex;"><span>            find a <span style="color:#f92672">in</span> all_files
+</span></span><span style="display:flex;"><span>            newlink <span style="color:#f92672">=</span> os<span style="color:#f92672">.</span>getcwd() <span style="color:#f92672">+</span><span style="color:#e6db74">&#39;/&#39;</span> <span style="color:#f92672">+</span> a <span style="color:#f92672">+</span> <span style="color:#e6db74">&#39;.org&#39;</span>
+</span></span><span style="display:flex;"><span>            replace wikilink <span style="color:#66d9ef">with</span> newlink
+</span></span></code></pre></div><h4 id="the-script-above-convert-the-files-but-gives-them-the-extension-of-dot-md-dot-org-while-i-want-dot-org-only-so-that-i-can-have-consistent-links-dot-use-the-following-script-instead-dot"><span class="org-todo done DONE">DONE</span> the script above convert the files but gives them the extension of .md.org while I want .org only so that I can have consistent links. Use the following script instead.</h4>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>    <span style="color:#66d9ef">for</span> md in <span style="color:#66d9ef">$(</span>find . -name <span style="color:#ae81ff">\*</span>.md -type f<span style="color:#66d9ef">)</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">do</span>
+</span></span><span style="display:flex;"><span>    echo <span style="color:#e6db74">${</span>md<span style="color:#e6db74">}</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e"># echo &#34;${md%.*}&#34;</span>
+</span></span><span style="display:flex;"><span>    pandoc -f markdown -t org -o <span style="color:#e6db74">${</span>md%.*<span style="color:#e6db74">}</span>.org <span style="color:#e6db74">${</span>md<span style="color:#e6db74">}</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">done</span>
+</span></span></code></pre></div><p>To convert only one file use <code>pandoc -f markdown -t org -o newfile.org original-file.markdown</code></p>
 <h2 id="text-editors">Text Editors</h2>
 <p>Refer to <a href="/blog/blogposts/editors-war/">Editors War</a> for more info.</p>
 <p>The result of the table below clearly suggests that I should be using vs code at least for markdown. It doesn&rsquo;t make sense to use emacs for markdown when I already have everything I want in vscode. It&rsquo;s clearly better than obsidian since it&rsquo;s open source.</p>
@@ -910,7 +910,7 @@ I can replicate the feature that every entry of a table is a note for itself her
   <div class='post'>
     <div id="disqus_thread"></div>
 <script type="application/javascript">
-    var disqus_config = function () {
+    window.disqus_config = function () {
     
     
     
@@ -952,6 +952,24 @@ I can replicate the feature that every entry of a table is a note for itself her
       </header>
       
       <article class="mini-post">
+          <a href="/blog/blogposts/text-to-video-ai-models/" class="image" style="--bg-image: url('https://phenaki.video/stories/2_minute_movie.webp');">
+    <img class="stretchH" src="https://phenaki.video/stories/2_minute_movie.webp" alt="2-minute video generated by text from phenaki">
+  </a>
+        <header>
+          <h2><a href="/blog/blogposts/text-to-video-ai-models/">Text-to-Video AI Models: A New Hype in Multimodal Machine Learning</a></h2>
+          <time class="published" datetime="2022-10-07 15:13:35 -0400 EDT">October 7, 2022</time>
+        </header>
+      </article>
+      
+      <article class="mini-post">
+          
+        <header>
+          <h2><a href="/blog/blogposts/regex/">Regex</a></h2>
+          <time class="published" datetime="2021-12-12 00:00:00 &#43;0000 UTC">December 12, 2021</time>
+        </header>
+      </article>
+      
+      <article class="mini-post">
           
         <header>
           <h2><a href="/blog/blogposts/journal-announcement-2021-11-03/">Journal: Announcements about my blogging activity</a></h2>
@@ -963,7 +981,7 @@ I can replicate the feature that every entry of a table is a note for itself her
           
         <header>
           <h2><a href="/blog/blogposts/note-taking/">Note Taking</a></h2>
-          <time class="published" datetime="2021-08-10 00:00:00 -0400 EDT">August 10, 2021</time>
+          <time class="published" datetime="2021-08-10 00:00:00 &#43;0000 UTC">August 10, 2021</time>
         </header>
       </article>
       
@@ -972,22 +990,6 @@ I can replicate the feature that every entry of a table is a note for itself her
         <header>
           <h2><a href="/blog/blogposts/blogging/">Blogging</a></h2>
           <time class="published" datetime="2021-03-03 23:39:40 -0400 -0400">March 3, 2021</time>
-        </header>
-      </article>
-      
-      <article class="mini-post">
-          
-        <header>
-          <h2><a href="/blog/blogposts/2018-11-21-how-to-apply/">How to apply</a></h2>
-          <time class="published" datetime="2018-11-21 23:26:55 -0400 -0400">November 21, 2018</time>
-        </header>
-      </article>
-      
-      <article class="mini-post">
-          
-        <header>
-          <h2><a href="/blog/blogposts/editors-war/"></a></h2>
-          <time class="published" datetime="0001-01-01 00:00:00 &#43;0000 UTC">January 1, 0001</time>
         </header>
       </article>
       
@@ -1011,6 +1013,18 @@ I can replicate the feature that every entry of a table is a note for itself her
           
           <li>
               <a href="/blog/categories/journal/">journal<span class="count">1</span></a>
+          
+          <li>
+              <a href="/blog/categories/machine-learning/">machine-learning<span class="count">1</span></a>
+          
+          <li>
+              <a href="/blog/categories/research/">research<span class="count">1</span></a>
+          
+          <li>
+              <a href="/blog/categories/science/">science<span class="count">1</span></a>
+          
+          <li>
+              <a href="/blog/categories/updates/">updates<span class="count">1</span></a>
           
           <li>
               <a href="/blog/categories/writing/">writing<span class="count">1</span></a>
@@ -1084,16 +1098,16 @@ I can replicate the feature that every entry of a table is a note for itself her
       </ul>
   
   <p class="copyright">
-    © 2021 Blog of Kasra Darvish
+    © 2022 Blog of Kasra Darvish
       <br>
-    Theme: <a href='https://github.com/pacollins/hugo-future-imperfect-slim' target='_blank' rel='noopener'>Hugo Future Imperfect Slim</a><br>A <a href='https://html5up.net/future-imperfect' target='_blank' rel='noopener'>HTML5 UP port</a> | Powered by <a href='https://gohugo.io/' title='0.85.0' target='_blank' rel='noopener'>Hugo</a>
+    Theme: <a href='https://github.com/pacollins/hugo-future-imperfect-slim' target='_blank' rel='noopener'>Hugo Future Imperfect Slim</a><br>A <a href='https://html5up.net/future-imperfect' target='_blank' rel='noopener'>HTML5 UP port</a> | Powered by <a href='https://gohugo.io/' title='0.101.0' target='_blank' rel='noopener'>Hugo</a>
   </p>
 </footer>
 <a id="back-to-top" href="#" class="fas fa-arrow-up fa-2x"></a>
 
       <script src="/blog/js/highlight.js"></script>
     
-    <script>hljs.highlightAll();</script><script src="/blog/js/bundle.min.4a9ca0822ebec103e36b18a5c9ce4d428f265499f9531f014a340948c3226ddf.js" integrity="sha256-Spyggi6&#43;wQPjaxilyc5NQo8mVJn5Ux8BSjQJSMMibd8="></script>
+    <script>hljs.highlightAll();</script><script src="/blog/js/bundle.min.a8892f2bf895a38c6790dda277e8e19ca80705a306a1f152c8d7ca95b5307488.js" integrity="sha256-qIkvK/iVo4xnkN2id&#43;jhnKgHBaMGofFSyNfKlbUwdIg="></script>
     <script src="/blog/js/add-on.js"></script>
     </div>
     <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="kasraprime" data-description="Support me on Buy me a coffee!" data-message="" data-color="#FFDD00" data-position="left" data-x_margin="18" data-y_margin="18"></script>

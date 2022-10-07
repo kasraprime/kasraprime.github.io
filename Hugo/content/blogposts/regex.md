@@ -1,7 +1,9 @@
 +++
 title = "Regex"
 author = ["Kasra Darvish"]
-draft = false
+date = 2021-12-12
+tags = ["regex", "language"]
+draft = true
 +++
 
 ## Basics {#basics}

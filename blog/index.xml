@@ -6,7 +6,29 @@
     <description>Recent content on Blog of Kasra Darvish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Nov 2021 23:39:40 -0400</lastBuildDate><atom:link href="https://kasraprime.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Oct 2022 15:13:35 -0400</lastBuildDate><atom:link href="https://kasraprime.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Text-to-Video AI Models: A New Hype in Multimodal Machine Learning</title>
+      <link>https://kasraprime.com/blog/blogposts/text-to-video-ai-models/</link>
+      <pubDate>Fri, 07 Oct 2022 15:13:35 -0400</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/text-to-video-ai-models/</guid>
+      <description>There has been great hype in multimodal research these past few days because of the release of multiple text-to-video models while text-to-image models are still pretty hype and not perfect yet. Diffusion models such as GLIDE in general and stable diffusion in particular are the state-of-the-art models for text-to-image tasks as of now. However, multiple papers came out recently that tackle the task of generating videos from text prompts or still images.</description>
+    </item>
+    
+    <item>
+      <title>Regex</title>
+      <link>https://kasraprime.com/blog/blogposts/regex/</link>
+      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/regex/</guid>
+      <description>Basics Use this website interactively to learn. Use this website to generate regular expressions
+Exclude something Use [^something] to exclude some patterns.
+Include something Similar to excluding but [something].
+Include one or another [one|another]
+Repeats * 0 or more of something + 1 or more of something Some Characters . Everything except new line. in or der to search for [](.org) you need to write \[\[.*\]\]. Let&amp;rsquo;s say you want to keep the content between the brackets.</description>
+    </item>
+    
     <item>
       <title>Journal: Announcements about my blogging activity</title>
       <link>https://kasraprime.com/blog/blogposts/journal-announcement-2021-11-03/</link>
@@ -14,17 +36,17 @@
       
       <guid>https://kasraprime.com/blog/blogposts/journal-announcement-2021-11-03/</guid>
       <description>Some Announcement I am back at writing again. Don&amp;rsquo;t get me wrong, I still write everyday, but for myself, and it&amp;rsquo;s been a long time that I have not written anything publicly. Well, that&amp;rsquo;s about to change since I have some ideas to write about frequently. The theme of my frequent writings are the followings:
- Research Paper Summaries Journals and Diary Book Summaries and Recommendations  Research Paper Summaries The papers are going to be mostly in Machine Learning and Artificial Intelligence, but I might write about other fields occasionally; these other areas could be Neuroscience, Cognitive Science, and more.</description>
+Research Paper Summaries Journals and Diary Book Summaries and Recommendations Research Paper Summaries The papers are going to be mostly in Machine Learning and Artificial Intelligence, but I might write about other fields occasionally; these other areas could be Neuroscience, Cognitive Science, and more.</description>
     </item>
     
     <item>
       <title>Note Taking</title>
       <link>https://kasraprime.com/blog/blogposts/note-taking/</link>
-      <pubDate>Tue, 10 Aug 2021 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://kasraprime.com/blog/blogposts/note-taking/</guid>
       <description>Hey You Perfectionist Don&amp;rsquo;t spend endless hours contemplating the tools. Follow this rule:
- As long as you have access to your data and they are palin text, you will be fine. The worst is that you can&amp;rsquo;t convert your files easily to another plain text format, but even in that case you can search your files and find the data you are looking for. Don&amp;rsquo;t think about publishing and making it look good, because notes evolve over time and you don&amp;rsquo;t want the pdfs of them you created two years ago.</description>
+As long as you have access to your data and they are palin text, you will be fine. The worst is that you can&amp;rsquo;t convert your files easily to another plain text format, but even in that case you can search your files and find the data you are looking for. Don&amp;rsquo;t think about publishing and making it look good, because notes evolve over time and you don&amp;rsquo;t want the pdfs of them you created two years ago.</description>
     </item>
     
     <item>
@@ -64,15 +86,6 @@ Maybe, but none of them describe me completely. I&amp;rsquo;m defined by the mom
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kasraprime.com/blog/blogposts/editors-war/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://kasraprime.com/blog/blogposts/emacs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kasraprime.com/blog/blogposts/emacs/</guid>
       <description></description>
     </item>
     
@@ -125,12 +138,22 @@ The story of Ross Ulbrik who created a dark net webiste to sell drugs. He was a 
     </item>
     
     <item>
+      <title>Emacs</title>
+      <link>https://kasraprime.com/blog/blogposts/emacs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/emacs/</guid>
+      <description>Pros org mode extensible Powerful text editing capabilities Org agenda is really good Future proof Cons Emacs is single-threaded so a buggy plugin can freeze your emacs process. Not very fast Learn To search and open a file in all subdirectories from the current directory use Find file from here command or spc+f+F.
+TODO how to open files in system&amp;rsquo;s default app form emacs? General Packagaes wc-mode to give you number of words in the file.</description>
+    </item>
+    
+    <item>
       <title>Org Mode</title>
       <link>https://kasraprime.com/blog/blogposts/org-mode/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kasraprime.com/blog/blogposts/org-mode/</guid>
-      <description>Links  Insert a link: C-c C-l and then choose org: for example Edit a link: Same as inserting a link To link to a url use the following syntax: [[LINK][DESCRIPTION]] Link to other file formats: You can simply use the syntax above for urls, but instead of a url, provide the path to a file. You can alternatively use the command org-insert-link or keyborad shortcut spc m l l. The default keybinding is C-c C-l.</description>
+      <description>Links Insert a link: C-c C-l and then choose org: for example Edit a link: Same as inserting a link To link to a url use the following syntax: [[LINK][DESCRIPTION]] Link to other file formats: You can simply use the syntax above for urls, but instead of a url, provide the path to a file. You can alternatively use the command org-insert-link or keyborad shortcut spc m l l. The default keybinding is C-c C-l.</description>
     </item>
     
     <item>
@@ -139,20 +162,7 @@ The story of Ross Ulbrik who created a dark net webiste to sell drugs. He was a 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kasraprime.com/blog/blogposts/podcasts/</guid>
-      <description>Podcasts    Name Status Genre Author Start Date Rating Episodes      channelB #WIP Story, Fiction Ali Bandari 2021-04-13 5/5     Bplus #WIP Book Summary Ali Bandari  5/5      </description>
-    </item>
-    
-    <item>
-      <title>Regex</title>
-      <link>https://kasraprime.com/blog/blogposts/regex/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kasraprime.com/blog/blogposts/regex/</guid>
-      <description>Basics Use this website interactively to learn. Use this website to generate regular expressions
-Exclude something Use [^something] to exclude some patterns.
-Include something Similar to excluding but [something].
-Include one or another [one|another]
-Repeats  * 0 or more of something + 1 or more of something  Some Characters  . Everything except new line.  in or der to search for [](.org) you need to write \[\[.*\]\]. Let&amp;rsquo;s say you want to keep the content between the brackets.</description>
+      <description>Podcasts Name Status Genre Author Start Date Rating Episodes channelB #WIP Story, Fiction Ali Bandari 2021-04-13 5/5 Bplus #WIP Book Summary Ali Bandari 5/5 </description>
     </item>
     
   </channel>
