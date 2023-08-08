@@ -6,22 +6,31 @@
     <description>Recent content in Categories on Blog of Kasra Darvish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kasraprime.com/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Aug 2023 16:12:23 -0400</lastBuildDate><atom:link href="https://kasraprime.com/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Machine-Learning</title>
-      <link>https://kasraprime.com/blog/categories/machine-learning/</link>
-      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      <title>Presentations</title>
+      <link>https://kasraprime.com/blog/categories/presentations/</link>
+      <pubDate>Tue, 08 Aug 2023 16:12:23 -0400</pubDate>
       
-      <guid>https://kasraprime.com/blog/categories/machine-learning/</guid>
+      <guid>https://kasraprime.com/blog/categories/presentations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research</title>
       <link>https://kasraprime.com/blog/categories/research/</link>
-      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Aug 2023 16:12:23 -0400</pubDate>
       
       <guid>https://kasraprime.com/blog/categories/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine-Learning</title>
+      <link>https://kasraprime.com/blog/categories/machine-learning/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/categories/machine-learning/</guid>
       <description></description>
     </item>
     

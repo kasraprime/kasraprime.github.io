@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Networking on Blog of Kasra Darvish</title>
+    <link>https://kasraprime.com/blog/tags/networking/</link>
+    <description>Recent content in Networking on Blog of Kasra Darvish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 08 Aug 2023 15:58:51 -0400</lastBuildDate><atom:link href="https://kasraprime.com/blog/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research Skills</title>
+      <link>https://kasraprime.com/blog/blogposts/research-skills/</link>
+      <pubDate>Tue, 08 Aug 2023 15:58:51 -0400</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/research-skills/</guid>
+      <description>Two of most important reserach skills that are usually not thought are networking and using AI tools. I presented the follwoing talk for the IRAL lab at UMBC.</description>
+    </item>
+    
+  </channel>
+</rss>

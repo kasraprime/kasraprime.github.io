@@ -6,7 +6,34 @@
     <description>Recent content in Research on Blog of Kasra Darvish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kasraprime.com/blog/categories/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Aug 2023 16:12:23 -0400</lastBuildDate><atom:link href="https://kasraprime.com/blog/categories/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research Workflow</title>
+      <link>https://kasraprime.com/blog/blogposts/research-workflow/</link>
+      <pubDate>Tue, 08 Aug 2023 16:12:23 -0400</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/research-workflow/</guid>
+      <description>In order to be good at something, you need to have good tools. You need to hone your crafts. Research is no excemption either. The following is a talk I gave at IRAL Lab at UMBC</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Experiment Tracking With Wandb</title>
+      <link>https://kasraprime.com/blog/blogposts/machine-learning-experiment-tracking-with-wandb/</link>
+      <pubDate>Tue, 08 Aug 2023 16:08:48 -0400</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/machine-learning-experiment-tracking-with-wandb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research Skills</title>
+      <link>https://kasraprime.com/blog/blogposts/research-skills/</link>
+      <pubDate>Tue, 08 Aug 2023 15:58:51 -0400</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/research-skills/</guid>
+      <description>Two of most important reserach skills that are usually not thought are networking and using AI tools. I presented the follwoing talk for the IRAL lab at UMBC.</description>
+    </item>
+    
     <item>
       <title>Generative Models</title>
       <link>https://kasraprime.com/blog/blogposts/generative-models/</link>
