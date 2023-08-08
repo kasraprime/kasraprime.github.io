@@ -6,7 +6,104 @@
     <description>Recent content in Blogposts on Blog of Kasra Darvish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Oct 2022 15:13:35 -0400</lastBuildDate><atom:link href="https://kasraprime.com/blog/blogposts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kasraprime.com/blog/blogposts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Art</title>
+      <link>https://kasraprime.com/blog/blogposts/art/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://kasraprime.com/blog/blogposts/artificial-intelligence/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/artificial-intelligence/</guid>
+      <description>A branch of computer science which tries to create Intelligence in machines.</description>
+    </item>
+    
+    <item>
+      <title>ChatGpt</title>
+      <link>https://kasraprime.com/blog/blogposts/chatgpt/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/chatgpt/</guid>
+      <description>An Artificial Intelligence chatbot and Nlp model by openAI.</description>
+    </item>
+    
+    <item>
+      <title>Classification</title>
+      <link>https://kasraprime.com/blog/blogposts/classification/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/classification/</guid>
+      <description>Why Classification As Gendler states (2011), &amp;ldquo;classifying objects into groups allows us to proceed effectively in an environment teeming with overwhelming detail.&amp;rdquo;
+Random Baseline In order to compute the accuracy of a random baseline for a multi-class classfication you can simply: \[acc = P(y=0) \times P(\hat{y}=0) + P(class is 1) \times P(you guess 1) \] where P(y=1) means the probability that the class is actually 1, and \(P(\hat{y}=1)\) means tne probability that you guess 1.</description>
+    </item>
+    
+    <item>
+      <title>Generative Models</title>
+      <link>https://kasraprime.com/blog/blogposts/generative-models/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/generative-models/</guid>
+      <description>Generative AI models are a broad area in Machine Learning that instead of Classification focus on creating data. Classification is about prediction which is really cool; Nostradamus ;) However, the ability to create is superior; We become Gods, new kind of gods that really exist! Also, if you can create, you can predict.
+With that introduction, we can jump into the edge of research in this field. This field is growing really fast and has gained a lot of attention from the public and media recently, especially the famous ChatGpt model by OpenAI.</description>
+    </item>
+    
+    <item>
+      <title>God</title>
+      <link>https://kasraprime.com/blog/blogposts/god/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/god/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intelligence</title>
+      <link>https://kasraprime.com/blog/blogposts/intelligence/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/intelligence/</guid>
+      <description>It&amp;rsquo;s hard to define intelligence. I will do it later!</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://kasraprime.com/blog/blogposts/machine-learning/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/machine-learning/</guid>
+      <description>Teaching Whenever you want to explain machine learning to someone, use the example of Teaching. Machine learning is like taking an exam from students. You compare students&amp;rsquo; results (model&amp;rsquo;s prediction) with the answers (labels) you have.
+Resources https://course19.fast.ai/videos/?lesson=1 https://wandb.ai/aarora/weekly%5C_digest/reports/This-Week-in-Research-Papers--Vmlldzo2MTA1MDg?galleryTag=digests Generative vs Discriminative models https://stats.stackexchange.com/questions/12421/generative-vs-discriminative
+Generative models provide a model of how the data is actually generated (think of them as giving you a model of both \(P(X|Y)\) and \(P(Y)\)), and discriminative algorithms as simply providing classification splits.</description>
+    </item>
+    
+    <item>
+      <title>Nlp</title>
+      <link>https://kasraprime.com/blog/blogposts/nlp/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/nlp/</guid>
+      <description>Q: What is a joint probability?
+We have formal languages like programming languages, and natural languages like English. Natural languages are not formally specified, therefore we need statistical models to learn from examples, and approximate the natural lang.
+the number of times a term occurs in a document is called its term frequency
+Language modeling is the task of assigning a probability to sentences in a language. The notion of a language model is inherently probabilistic.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://kasraprime.com/blog/blogposts/teaching/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/teaching/</guid>
+      <description>Teaching is an Art to me.</description>
+    </item>
+    
     <item>
       <title>Text-to-Video AI Models: A New Hype in Multimodal Machine Learning</title>
       <link>https://kasraprime.com/blog/blogposts/text-to-video-ai-models/</link>

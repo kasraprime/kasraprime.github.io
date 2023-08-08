@@ -1,0 +1,551 @@
+<!doctype html>
+
+<html lang="en" dir="ltr"></html>
+  <head>
+  <meta charset="utf-8">
+<title>Machine Learning - Blog of Kasra Darvish</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<meta name="generator" content="Hugo 0.101.0" /><meta property="og:site_name" content="Blog of Kasra Darvish">
+  <meta property="og:title" content="Machine Learning">
+  <meta property="og:description" content="A blog about books, life, AI, and Ph.D. life">
+  <meta property="description" content="A blog about books, life, AI, and Ph.D. life">
+  <meta property="og:url" content="https://kasraprime.com/blog/blogposts/machine-learning/">
+  <meta property="og:type" content="article">
+  
+    <meta property="og:image" content="https://kasraprime.com/blog/img/kasra.JPG">
+  
+  <link rel="stylesheet" href="/blog/css/bundle.min.9da1009965aef1af97d00c4f0dc221726fe188fa0e4c4e1757453e1478f7ff3c.css" integrity="sha256-naEAmWWu8a&#43;X0AxPDcIhcm/hiPoOTE4XV0U&#43;FHj3/zw="><link rel="stylesheet" href="/blog/css/add-on.css">
+</head>
+
+  <body>
+    
+
+<header id="site-header">
+  <nav id="site-nav">
+    <h1 class="nav-title">
+      <a href="/" class="nav">
+        
+          Machine Learning
+        
+      </a>
+    </h1>
+    <menu id="site-nav-menu" class="flyout-menu menu">
+      
+        
+          
+          <a href="https://www.kasraprime.com" class="nav link"><i class='fa fa-home'></i> Home</a>
+        
+      
+        
+          
+          <a href="/blog/about" class="nav link"><i class='far fa-id-card'></i> About</a>
+        
+      
+        
+          
+          <a href="/blog/blog" class="nav link"><i class='far fa-newspaper'></i> Blog</a>
+        
+      
+        
+          
+          <a href="/blog/categories" class="nav link"><i class='fas fa-sitemap'></i> Categories</a>
+        
+      
+        
+          
+          <a href="/blog/contact" class="nav link"><i class='far fa-envelope'></i> Contact</a>
+        
+      
+      <a href="#share-menu" class="nav link share-toggle"><i class="fas fa-share-alt">&nbsp;</i>Share</a>
+      <a href="#search-input" class="nav link search-toggle"><i class="fas fa-search">&nbsp;</i>Search</a>
+    </menu>
+    <a href="#search-input" class="nav search-toggle"><i class="fas fa-search fa-2x">&nbsp;</i></a>
+    <a href="#share-menu" class="nav share-toggle"><i class="fas fa-share-alt fa-2x">&nbsp;</i></a>
+    <a href="#lang-menu" class="nav lang-toggle" lang="en">en</a>
+    <a href="#site-nav" class="nav nav-toggle"><i class="fas fa-bars fa-2x"></i></a>
+  </nav>
+  <menu id="search" class="menu"><input id="search-input" class="search-input menu"></input><div id="search-results" class="search-results menu"></div></menu>
+  <menu id="lang-menu" class="flyout-menu menu">
+  <a href="#" lang="en" class="nav link active">English (en)</a>
+  
+    
+      
+    
+      
+        <a href="/blog/fa" lang="fa" class="nav no-lang link">Farsi (fa)</a>
+      
+    
+  
+</menu>
+
+  
+    <menu id="share-menu" class="flyout-menu menu">
+      <h1>Share Post</h1>
+      
+
+
+
+
+  
+    
+    <a href="//twitter.com/share?text=check out the blogpost Machine%20Learning written by @KasraPrime at&amp;url=https%3a%2f%2fkasraprime.com%2fblog%2fblogposts%2fmachine-learning%2f" target="_blank" rel="noopener" class="nav share-btn twitter">
+        <p>Twitter</p>
+      </a>
+  
+
+  
+      <a href="//www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fkasraprime.com%2fblog%2fblogposts%2fmachine-learning%2f" target="_blank" rel="noopener" class="nav share-btn facebook">
+        <p>Facebook</p>
+        </a>
+  
+
+  
+    <a href="//www.reddit.com/submit?url=https%3a%2f%2fkasraprime.com%2fblog%2fblogposts%2fmachine-learning%2f&amp;title=Machine%20Learning" target="_blank" rel="noopener" class="nav share-btn reddit">
+          <p>Reddit</p>
+        </a>
+  
+
+  
+        <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fkasraprime.com%2fblog%2fblogposts%2fmachine-learning%2f&amp;title=Machine%20Learning" target="_blank" rel="noopener" class="nav share-btn linkedin">
+            <p>LinkedIn</p>
+          </a>
+  
+
+  
+        <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2fkasraprime.com%2fblog%2fblogposts%2fmachine-learning%2f&amp;description=Machine%20Learning" target="_blank" rel="noopener" class="nav share-btn pinterest">
+          <p>Pinterest</p>
+        </a>
+  
+
+  
+        <a href="mailto:?subject=Check%20out%20this%20post%20by %5bKasra%20Darvish%5d&amp;body=https%3a%2f%2fkasraprime.com%2fblog%2fblogposts%2fmachine-learning%2f" target="_blank" class="nav share-btn email" data-proofer-ignore>
+          <p>Email</p>
+        </a>
+  
+
+
+    </menu>
+  
+</header>
+
+    <div id="wrapper">
+      <section id="site-intro" >
+  <a href="/"><img src="https://kasraprime.com/blog/img/kasra.JPG" class="circle" width="250" alt="This is me" /></a>
+  <header>
+    <h1>Kasra Darvish</h1>
+  </header>
+  <main>
+    <p>I write to exist beyond time!</p>
+  </main>
+  
+    <footer>
+      <ul class="socnet-icons">
+        
+
+        <li><a href="//github.com/kasraprime" target="_blank" rel="noopener" title="GitHub" class="fab fa-github"></a></li>
+
+
+
+
+
+
+
+
+
+
+
+<li><a href="//www.linkedin.com/in/kasraprime" target="_blank" rel="noopener" title="LinkedIn" class="fab fa-linkedin"></a></li>
+
+
+
+
+<li><a href="//facebook.com/kasraprime" target="_blank" rel="noopener" title="Facebook" class="fab fa-facebook"></a></li>
+
+
+
+
+
+
+
+
+<li><a href="//instagram.com/kasraprime" target="_blank" rel="noopener" title="Instagram" class="fab fa-instagram"></a></li>
+
+<li><a href="//twitter.com/kasraprime" target="_blank" rel="noopener" title="Twitter" class="fab fa-twitter"></a></li>
+
+
+
+
+
+
+<li><a href="//scholar.google.com/citations?user=8jcoBdwAAAAJ" target="_blank" rel="noopener" title="Google Scholar"><i class="ai ai-google-scholar"></i></a></li>
+
+
+
+
+
+
+      </ul>
+    </footer>
+  
+</section>
+
+      <main id="site-main">
+        
+  <article>
+    <div class="post">
+      <header>
+  <div class="title">
+    
+      <h2><a href="/blog/blogposts/machine-learning/">Machine Learning</a></h2>
+    
+    
+  </div>
+  <div class="meta">
+    <time datetime="2023-08-08 00:00:00 &#43;0000 UTC">August 8, 2023</time>
+    <p>[Kasra Darvish]</p>
+    <p>7-Minute Read</p>
+  </div>
+</header>
+
+          <div class="content">
+        
+        <h2 id="teaching">Teaching</h2>
+<p>Whenever you want to explain machine learning to someone, use the example of <a href="/blog/blogposts/teaching/">Teaching</a>.
+Machine learning is like taking an exam from students. You compare students&rsquo; results (model&rsquo;s prediction) with the answers (labels) you have.</p>
+<h2 id="resources">Resources</h2>
+<ol>
+<li><a href="https://course19.fast.ai/videos/?lesson=1">https://course19.fast.ai/videos/?lesson=1</a></li>
+<li><a href="https://wandb.ai/aarora/weekly%5C_digest/reports/This-Week-in-Research-Papers--Vmlldzo2MTA1MDg?galleryTag=digests">https://wandb.ai/aarora/weekly%5C_digest/reports/This-Week-in-Research-Papers--Vmlldzo2MTA1MDg?galleryTag=digests</a></li>
+</ol>
+<h3 id="generative-vs-discriminative-models">Generative vs Discriminative models</h3>
+<p><a href="https://stats.stackexchange.com/questions/12421/generative-vs-discriminative">https://stats.stackexchange.com/questions/12421/generative-vs-discriminative</a></p>
+<p>Generative models provide a model of how the data is actually generated (think of them as giving you a model of both \(P(X|Y)\) and \(P(Y)\)), and discriminative algorithms as simply providing classification splits.</p>
+<p>Note that generative algorithms have discriminative properties, since you can get \(P(Y|X)\) once you have \(P(X|Y)\) and \(P(Y)\) (by Bayes&rsquo; Theorem), though discriminative algorithms don&rsquo;t really have generative properties.</p>
+<p>Discriminative algorithms allow you to classify points, without providing a model of how the points are actually generated. So these could be either: - probabilistic algorithms try to learn \(P(Y|X)\) (e.g., logistic regression); - or non-probabilistic algorithms that try to learn the mappings directly from the points to the classes (e.g., perceptron and SVMs simply give you a separating hyperplane, but no model of generating new points).</p>
+<p>Another way of thinking about this is that generative algorithms make some kind of structure assumptions on your model, but discriminative algorithms make fewer assumptions. For example, Naive Bayes assumes conditional independence of your features, while logistic regression (the discriminative &ldquo;counterpart&rdquo; of Naive Bayes) does not.</p>
+<p><a href="https://medium.com/@SmartLabAI/a-brief-overview-of-imitation-learning-8a8a75c44a9c">https://medium.com/@SmartLabAI/a-brief-overview-of-imitation-learning-8a8a75c44a9c</a></p>
+<p><strong>Reinforcement Learning</strong>: Useful when we cannot specify a loss function, and we don&rsquo;t have labeled data. Also when agent needs to take some action, it&rsquo;s better to use RL. In fact in RL we even don&rsquo;t have the training data, and we have to learn from experience. Imagine playing chess: there is no training data to learn from, there is no label. All we have is reward signals.</p>
+<p><strong>Imitation learning</strong>: we use expert demonstration/policy to train our agent to find the best policy. The twist is that if everything is perfect we can use the expert policy out of the box (rule based system), however imitation learning is useful in scenarios where we cannot demonstrate every possible state action pair such as chess, or in scenarios where data is noisy and demonstration is not going to be the same as execution like in folding clothes. Some of the methods to do imitation learning include:</p>
+<ol>
+<li>behavioral cloning: using expert policy (P*) provided by an expert and then the loss function would be L(a*,P(s))
+where a* is the action performed by the expert at state S, and P(s) is the action agent would perform given state S. We try to minimize this loss. This is supervised learning.</li>
+<li>inverse reinforcement learning is to use expert policy to find the reward function, and then find the optimal policy</li>
+<li>direct policy learning which needs interactive expert</li>
+</ol>
+<h3 id="rnn">RNN</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>Useful when dealing with sequential data like language or sound. Feed forward networks are not good fit for sequential data because they don&#39;t satisfy the following properties. *RNNs are Turing complete*
+</span></span></code></pre></div><ol>
+<li>handle <strong>variable length</strong> sequence</li>
+<li><strong>long term dependencies</strong> to be tracked</li>
+<li>maintain info about <strong>order</strong></li>
+<li><strong>share parameters</strong> across the sequence</li>
+</ol>
+<p>Therefore we use RNN for sequence modeling. If we unfold an RNN we could easily see how it works. we use both input and hidden to compute the output. For the first input we don&rsquo;t have any hidden so either we use random or zero. Therefore we have 2 different weights to learn. one that connects input to the neuron and the other one which connects hidden to the neuron. Note that the output=hidden.</p>
+<p>\(h_t=sigmoid(W_x.X+W_h.h_{t-1})\) where \(h_{t-1}\) is the hidden (output) at one time step before. I just ignored bias in this formula. so \(h_t=output_t\)</p>
+<p>the network is same for each batch starting from t=0 to t=n, then for the next batch we start from t=0, which means we start from the beginning of the network with weights already learned, and for hidden we can initialize it again. In other words every time we call model(x) in our code it starts from t=0 to t=n, and then until the next time we call model(x) that we start from the beginning of the network again</p>
+<h3 id="lstm">LSTM</h3>
+<p>watch this video for explanation. <a href="https://www.youtube.com/watch?v=WCUNPb-5EYI">https://www.youtube.com/watch?v=WCUNPb-5EYI</a></p>
+<p><strong>Exploding gradients</strong>: when derivative of activation function is too large for many of them, the multiplication of these numbers would be very large</p>
+<p><strong>Vanishing gradients</strong>: The exact opposite situation of exploding gradients where the derivative of activation function is too small, and the multiplication becomes almost zero and therefore we cannot update the weights because we don&rsquo;t have any direction to go.</p>
+<p><strong>Generative</strong> models: are type of <strong>unsupervised</strong> learning. <strong>VAE</strong>, and <strong>GAN</strong> are generative models</p>
+<p><strong>Autoencoders</strong>: An encoder-decoder that use a deep network to learn a mapping from input to latent space (which is feature representations), this is the encoding phase, and using the latent features to reconstruct the same input data using the same deep network (it should be symmetric), and obviously the loss would be the difference between the reconstructed (<del>generated</del>) output and the original input. The second phase is the decoding part.
+We can think of autoencoders as dimensionality reduction methods, as well as unsupervised feature extraction methods.</p>
+<p>After training the autoencoder. we can throw away the decoder part, and use encoder to extract features, and use that to initialize a supervised model. Refer to myQuestions for why we cannot use decoder part for generation.</p>
+<p>In order to be able to use the decoder of our autoencoder for generative purpose, we have to be sure that the latent space is regular enough. One possible solution to obtain such regularity is to introduce explicit regularization during the training process. A variational autoencoder can be defined as being an autoencoder whose training is regularized to avoid overfitting and ensure that the latent space has good properties that enable generative process.</p>
+<p><strong>Variational Autoencoders</strong>: the probabilistic version of autoencoders that can be used to generate data. Variational Autoencoders are regularized version of autoencoders making the generative process possible, while we cannot use autoencoders to generate data. The training is the same as autoencoder with one difference which is: <strong>instead of encoding an input as a single vector, we encode it as a distribution over the latent space</strong>. The decoder then samples a data point (vector) from that distribution, and decode the point and then the rest is the same to compute reconstruction error. The loss function also has a regularization term which is to make distributions returned by the encoder close to a standard normal distribution (gaussian). This term is expressed as the KL divergence between the 2 distribution.</p>
+<p>graph:</p>
+<p>simple autoencoder: (deterministic)
+input &ndash;&gt; latent representation &ndash;&gt; reconstructed input
+x &ndash;&gt; z=e(x) &ndash;&gt; d(z)= d(e(x))</p>
+<p>variational autoencoder: (probabilistic)
+input &ndash;&gt; latent distribution &ndash;&gt; sampled latent distribution &ndash;&gt; reconstructed input
+x &ndash;&gt; p(z|x) &ndash;&gt; z~p(z|x) &ndash;&gt; d(z)</p>
+<p>refer to this post: <a href="https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73">https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73</a></p>
+<p><strong>Dimensionality Reduction</strong>: the process of reducing the number of features that describe some data.
+useful for data storage, heavy computation, and data visualization (we cannot visualize data of more than 3 dimensions). <strong>Autoencoders are also a dimensionality reduction method</strong>.</p>
+<p>Autoencoders w/o deep network would be an encoder/decoder which is a general paradigm for dimensionality reduction. Therefore PCA can be described as an encoder-decoder paradigm in which we try to minimize the reconstruction error which is the difference between x and d(e(x))</p>
+<p><strong>Principal Component Analysis (PCA)</strong>: A dimensionality reduction method which can also be defined in terms of encoder-decoder.</p>
+<p>PCA finds basis vectors called principal components. \([1,2,3]=c_1[1,0,0]+c_2[0,1,0]+c_3[0,0,1]\)</p>
+<p>Each vector here is one of the principal components. We have 3 principal components (think of them as coordinates, directions)</p>
+<p><strong>Neural Turing Machine</strong>: It&rsquo;s an RNN where a neural network coupled to external memory resources, and memory interaction are differentiable end-to-end.</p>
+<h3 id="gaussian-mixture-models--gmm">Gaussian Mixture Models (GMM)</h3>
+<p><strong>Parametric models</strong>: A learning model that summarizes data with a set of parameters of fixed size (independent of the number of training examples)</p>
+<p><strong>Non-Parametric methods</strong>: In which we don&rsquo;t assume any fixed number of parameters. When we don&rsquo;t have any prior knowledge about data. Models include Decision Tree, kNN, SVM, ANN (feed forward).</p>
+<h3 id="multi-label-classification">multi-label classification</h3>
+<p>Multi-label classification is the problem of finding a model that maps inputs x to binary vectors y (assigning a value of 0 or 1 for each element (label) in y).</p>
+<p>Problem transformation methods try to transform the multilabel classification into binary or multiclass classification problems. Algorithm adaptation methods adapt multiclass algorithms so they can be applied directly to the problem</p>
+<h3 id="reconstructing-images-in-generative-models">Reconstructing images in generative models</h3>
+<p>Problem: I wanted to show the reconstructed image from decoder, but the decoder&rsquo;s output was an embedding vector, and I was struggling to visualize it.</p>
+<p>Solution: You cannot visualize an embedding as an RGB image. If you want to visualize your reconstructed image, you have to define your network in a way that it&rsquo;s last layer of decoder has the same shape as image input (channels, width, height)</p>
+
+      </div>
+      <footer>
+        <div class="stats">
+  
+    <ul class="categories">
+      <li>None</li>
+    </ul>
+  
+  
+    <ul class="tags">
+      <li>None</li>
+    </ul>
+  
+</div>
+
+      </footer>
+      <a href="https://www.buymeacoffee.com/kasraprime"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=kasraprime&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
+      <div id="socnet-share">
+        
+
+
+
+
+  
+    
+    <a href="//twitter.com/share?text=check out the blogpost Machine%20Learning written by @KasraPrime at&amp;url=https%3a%2f%2fkasraprime.com%2fblog%2fblogposts%2fmachine-learning%2f" target="_blank" rel="noopener" class="nav share-btn twitter">
+        <p>Twitter</p>
+      </a>
+  
+
+  
+      <a href="//www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fkasraprime.com%2fblog%2fblogposts%2fmachine-learning%2f" target="_blank" rel="noopener" class="nav share-btn facebook">
+        <p>Facebook</p>
+        </a>
+  
+
+  
+    <a href="//www.reddit.com/submit?url=https%3a%2f%2fkasraprime.com%2fblog%2fblogposts%2fmachine-learning%2f&amp;title=Machine%20Learning" target="_blank" rel="noopener" class="nav share-btn reddit">
+          <p>Reddit</p>
+        </a>
+  
+
+  
+        <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fkasraprime.com%2fblog%2fblogposts%2fmachine-learning%2f&amp;title=Machine%20Learning" target="_blank" rel="noopener" class="nav share-btn linkedin">
+            <p>LinkedIn</p>
+          </a>
+  
+
+  
+        <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2fkasraprime.com%2fblog%2fblogposts%2fmachine-learning%2f&amp;description=Machine%20Learning" target="_blank" rel="noopener" class="nav share-btn pinterest">
+          <p>Pinterest</p>
+        </a>
+  
+
+  
+        <a href="mailto:?subject=Check%20out%20this%20post%20by %5bKasra%20Darvish%5d&amp;body=https%3a%2f%2fkasraprime.com%2fblog%2fblogposts%2fmachine-learning%2f" target="_blank" class="nav share-btn email" data-proofer-ignore>
+          <p>Email</p>
+        </a>
+  
+
+
+      </div>
+    </div>
+    
+      
+  <div class='post'>
+    <div id="disqus_thread"></div>
+<script type="application/javascript">
+    window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "kasraprime" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+  </div>
+
+
+
+    
+  </article>
+  <div class="pagination">
+    
+      <a href="/blog/blogposts/intelligence/" class="button left"><span>Intelligence</span></a>
+    
+    
+      <a href="/blog/blogposts/nlp/" class="button right"><span>Nlp</span></a>
+    
+  </div>
+
+      </main>
+      <section id="site-sidebar">
+  
+    <section id="recent-posts">
+      <header>
+        <h1>Recent Posts</h1>
+      </header>
+      
+      <article class="mini-post">
+          
+        <header>
+          <h2><a href="/blog/blogposts/art/">Art</a></h2>
+          <time class="published" datetime="2023-08-08 00:00:00 &#43;0000 UTC">August 8, 2023</time>
+        </header>
+      </article>
+      
+      <article class="mini-post">
+          
+        <header>
+          <h2><a href="/blog/blogposts/artificial-intelligence/">Artificial Intelligence</a></h2>
+          <time class="published" datetime="2023-08-08 00:00:00 &#43;0000 UTC">August 8, 2023</time>
+        </header>
+      </article>
+      
+      <article class="mini-post">
+          
+        <header>
+          <h2><a href="/blog/blogposts/chatgpt/">ChatGpt</a></h2>
+          <time class="published" datetime="2023-08-08 00:00:00 &#43;0000 UTC">August 8, 2023</time>
+        </header>
+      </article>
+      
+      <article class="mini-post">
+          
+        <header>
+          <h2><a href="/blog/blogposts/classification/">Classification</a></h2>
+          <time class="published" datetime="2023-08-08 00:00:00 &#43;0000 UTC">August 8, 2023</time>
+        </header>
+      </article>
+      
+      <article class="mini-post">
+          
+        <header>
+          <h2><a href="/blog/blogposts/generative-models/">Generative Models</a></h2>
+          <time class="published" datetime="2023-08-08 00:00:00 &#43;0000 UTC">August 8, 2023</time>
+        </header>
+      </article>
+      
+      
+        <footer>
+          <a href="/blog/blog" class="button">See More</a>
+        </footer>
+      
+    </section>
+  
+
+  
+    
+
+      <section id="categories">
+        <header>
+          <h1><a href="/blog/categories">Categories</a></h1>
+        </header>
+        <ul>
+          
+          
+          <li>
+              <a href="/blog/categories/machine-learning/">machine-learning<span class="count">2</span></a>
+          
+          <li>
+              <a href="/blog/categories/research/">research<span class="count">2</span></a>
+          
+          <li>
+              <a href="/blog/categories/science/">science<span class="count">2</span></a>
+          
+          <li>
+              <a href="/blog/categories/updates/">updates<span class="count">2</span></a>
+          
+          <li>
+              <a href="/blog/categories/journal/">journal<span class="count">1</span></a>
+          
+          <li>
+              <a href="/blog/categories/writing/">writing<span class="count">1</span></a>
+          
+          </li>
+        </ul>
+      </section>
+    
+  
+
+  
+    <section id="mini-bio">
+      <header>
+        <h1>About</h1>
+      </header>
+      <p>I'm a Ph.D. student interested in Artificial Intelligence, Machine Learning and intelligence in its abstract form</p>
+      <footer>
+        <a href="/blog/about" class="button">Learn More</a>
+      </footer>
+    </section>
+  
+</section>
+
+      <footer id="site-footer">
+  
+      <ul class="socnet-icons">
+        
+
+        <li><a href="//github.com/kasraprime" target="_blank" rel="noopener" title="GitHub" class="fab fa-github"></a></li>
+
+
+
+
+
+
+
+
+
+
+
+<li><a href="//www.linkedin.com/in/kasraprime" target="_blank" rel="noopener" title="LinkedIn" class="fab fa-linkedin"></a></li>
+
+
+
+
+<li><a href="//facebook.com/kasraprime" target="_blank" rel="noopener" title="Facebook" class="fab fa-facebook"></a></li>
+
+
+
+
+
+
+
+
+<li><a href="//instagram.com/kasraprime" target="_blank" rel="noopener" title="Instagram" class="fab fa-instagram"></a></li>
+
+<li><a href="//twitter.com/kasraprime" target="_blank" rel="noopener" title="Twitter" class="fab fa-twitter"></a></li>
+
+
+
+
+
+
+<li><a href="//scholar.google.com/citations?user=8jcoBdwAAAAJ" target="_blank" rel="noopener" title="Google Scholar"><i class="ai ai-google-scholar"></i></a></li>
+
+
+
+
+
+
+      </ul>
+  
+  <p class="copyright">
+    © 2023 Blog of Kasra Darvish
+      <br>
+    Theme: <a href='https://github.com/pacollins/hugo-future-imperfect-slim' target='_blank' rel='noopener'>Hugo Future Imperfect Slim</a><br>A <a href='https://html5up.net/future-imperfect' target='_blank' rel='noopener'>HTML5 UP port</a> | Powered by <a href='https://gohugo.io/' title='0.101.0' target='_blank' rel='noopener'>Hugo</a>
+  </p>
+</footer>
+<a id="back-to-top" href="#" class="fas fa-arrow-up fa-2x"></a>
+
+      <script src="/blog/js/highlight.js"></script>
+    
+    <script>hljs.highlightAll();</script><script src="/blog/js/bundle.min.a8892f2bf895a38c6790dda277e8e19ca80705a306a1f152c8d7ca95b5307488.js" integrity="sha256-qIkvK/iVo4xnkN2id&#43;jhnKgHBaMGofFSyNfKlbUwdIg="></script>
+    <script src="/blog/js/add-on.js"></script>
+    </div>
+    <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="kasraprime" data-description="Support me on Buy me a coffee!" data-message="" data-color="#FFDD00" data-position="left" data-x_margin="18" data-y_margin="18"></script>
+  </body>
+</html>
