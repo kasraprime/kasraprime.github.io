@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://kasraprime.com/blog/fa/blogposts/</loc>
-    <lastmod>2020-09-03T23:26:55-04:00</lastmod>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://kasraprime.com/blog/fa/tags/</loc>
-    <lastmod>2020-09-03T23:26:55-04:00</lastmod>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -28,11 +28,8 @@
                 href="https://kasraprime.com/blog/fa/tags/"
                 />
   </url><url>
-    <loc>https://kasraprime.com/blog/fa/tags/%D8%A2%D8%AF%D9%85/</loc>
-    <lastmod>2020-09-03T23:26:55-04:00</lastmod>
-  </url><url>
     <loc>https://kasraprime.com/blog/fa/</loc>
-    <lastmod>2020-09-03T23:26:55-04:00</lastmod>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -43,6 +40,24 @@
                 hreflang="fa"
                 href="https://kasraprime.com/blog/fa/"
                 />
+  </url><url>
+    <loc>https://kasraprime.com/blog/fa/tags/%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C%DB%8C/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kasraprime.com/blog/fa/tags/%D8%B4%D8%B9%D8%B1/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kasraprime.com/blog/fa/blogposts/death-and-life/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kasraprime.com/blog/fa/tags/%D9%85%D8%B9%D9%86%D8%A7/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kasraprime.com/blog/fa/tags/%D9%85%D8%B9%D9%86%D8%A7%DB%8C-%D8%B2%D9%86%D8%AF%DA%AF%DB%8C/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kasraprime.com/blog/fa/tags/%D8%A2%D8%AF%D9%85/</loc>
+    <lastmod>2020-09-03T23:26:55-04:00</lastmod>
   </url><url>
     <loc>https://kasraprime.com/blog/fa/blogposts/2020-09-03-peace/</loc>
     <lastmod>2020-09-03T23:26:55-04:00</lastmod>
@@ -65,9 +80,6 @@
                 hreflang="fa"
                 href="https://kasraprime.com/blog/fa/about/"
                 />
-  </url><url>
-    <loc>https://kasraprime.com/blog/fa/tags/%D8%B4%D8%B9%D8%B1/</loc>
-    <lastmod>2013-11-26T23:26:55-04:00</lastmod>
   </url><url>
     <loc>https://kasraprime.com/blog/fa/blogposts/2013-11-26-poem/</loc>
     <lastmod>2013-11-26T23:26:55-04:00</lastmod>
