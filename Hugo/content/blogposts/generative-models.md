@@ -1,6 +1,6 @@
 +++
 title = "Generative Models"
-author = ["Kasra Darvish"]
+author = "Kasra Darvish"
 date = 2023-08-08
 tags = ["AI", "Multimodal", "Science", "ML", "Machine-Learning", "Research"]
 categories = ["Science", "Machine-Learning", "Research", "Updates"]

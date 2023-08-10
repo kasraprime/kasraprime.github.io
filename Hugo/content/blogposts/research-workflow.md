@@ -6,11 +6,6 @@ date = 2023-08-08T16:12:23-04:00
 tags = ["Research"]
 categories = ["Research", "Presentations"]
 comments = true
-removeBlur = false
-[[images]]
-  src = ""
-  alt = ""
-  stretch = ""
 +++
 
 In order to be good at something, you need to have good tools. You need to hone your crafts. Research is no excemption either. The following is a talk I gave at [IRAL Lab](https://iral.cs.umbc.edu/) at [UMBC](https://umbc.edu/)

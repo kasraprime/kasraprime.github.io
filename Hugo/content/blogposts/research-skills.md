@@ -6,11 +6,6 @@ date = 2023-08-08T15:58:51-04:00
 tags = ["Research", "Networking"]
 categories = ["Research", "Presentations"]
 comments = true
-removeBlur = false
-[[images]]
-  src = ""
-  alt = ""
-  stretch = ""
 +++
 
 Two of most important reserach skills that are usually not thought are *networking* and using *AI tools*.
