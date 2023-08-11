@@ -37,7 +37,7 @@ disableLanguages        = []
   highlightjs           = true
   highlightjsTheme      = ""
   highlightjsLang       = []
-  viewMorePostsLink     = "blog"
+  viewMorePostsLink     = "blogposts"
   readingTime           = true
   imageStretch          = ""
   removeBlur            = false
@@ -123,7 +123,7 @@ disableLanguages        = []
   [[menu.main]]
     name              = "Blog"
     identifier        = "blog"
-    url               = "blog"
+    url               = "blogposts"
     pre               = "<i class='far fa-newspaper'></i>"
     weight            = 3
 
@@ -175,7 +175,7 @@ disableLanguages        = []
     [[Languages.fa.menu.main]]
       name              = "بلاگ"
       identifier        = "blog"
-      url               = "blog"
+      url               = "blogposts"
       pre               = "<i class='far fa-newspaper'></i>"
       weight            = 3
 
