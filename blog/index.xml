@@ -6,7 +6,38 @@
     <description>Recent content on Blog of Kasra Darvish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Aug 2023 16:12:23 -0400</lastBuildDate><atom:link href="https://kasraprime.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://kasraprime.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Large Language Models</title>
+      <link>https://kasraprime.com/blog/blogposts/large-language-models/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/large-language-models/</guid>
+      <description>They are called LLM for short. These are giant NLP models that are usually trained for text generation.</description>
+    </item>
+    
+    <item>
+      <title>Paper Localizing Active Objects From Egocentric Vision</title>
+      <link>https://kasraprime.com/blog/blogposts/paper-localizing-active-objects-from-egocentric-vision/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/paper-localizing-active-objects-from-egocentric-vision/</guid>
+      <description>This paper is published in ACL and you can find it using this link.
+It&amp;rsquo;s super interesting to see how different research projects are taking advantage of LLMs (GPT) by prompting them to do something and use those results to solve another problem.
+Summary This paper tackles the problem of grounding (localizing) objects in images using text instructions by focusing on pre- and post-conditions of target objects; they call this active object grounding.</description>
+    </item>
+    
+    <item>
+      <title>Semi Live Journal</title>
+      <link>https://kasraprime.com/blog/blogposts/semi-live-journal/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://kasraprime.com/blog/blogposts/semi-live-journal/</guid>
+      <description>This is going to be a live page about all sorts of things that I find beautiful. I intend to update this post at least once a month. For more regular updates check out my telegram channel: Darvishak Let&amp;rsquo;s get down to business.
+Yet another text-to-video model &amp;lt;2024-02-01 Thu&amp;gt;
+LUMIERE is a new text-to-video model by Google Research. Lumiere uses a space-time diffusion model for video generation</description>
+    </item>
+    
     <item>
       <title>Research Workflow</title>
       <link>https://kasraprime.com/blog/blogposts/research-workflow/</link>
