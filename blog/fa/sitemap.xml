@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://kasraprime.com/blog/fa/blogposts/</loc>
-    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +14,22 @@
                 hreflang="fa"
                 href="https://kasraprime.com/blog/fa/blogposts/"
                 />
+  </url><url>
+    <loc>https://kasraprime.com/blog/fa/</loc>
+    <lastmod>2024-04-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kasraprime.com/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://kasraprime.com/blog/fa/"
+                />
+  </url><url>
+    <loc>https://kasraprime.com/blog/fa/blogposts/death-of-memory/</loc>
+    <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kasraprime.com/blog/fa/tags/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
@@ -26,19 +42,6 @@
                 rel="alternate"
                 hreflang="fa"
                 href="https://kasraprime.com/blog/fa/tags/"
-                />
-  </url><url>
-    <loc>https://kasraprime.com/blog/fa/</loc>
-    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kasraprime.com/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://kasraprime.com/blog/fa/"
                 />
   </url><url>
     <loc>https://kasraprime.com/blog/fa/tags/%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C%DB%8C/</loc>
